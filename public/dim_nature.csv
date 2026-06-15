@@ -1,0 +1,10 @@
+﻿id_nature,type_recette,libelle_nature,est_recette_propre,source_financement,groupe_analytique
+1,TVA,Taxe sur la Valeur Ajoutée,0,Etat,Fiscalite_partage
+2,taxe_locale,Taxes et droits locaux,1,Commune,Fiscalite_propre
+3,dotation_etat,Dotations et subventions de l'Etat,0,Etat,Transferts_etat
+4,recette_propre,Recettes propres de la commune,1,Commune,Recettes_propres
+5,recette_domaniale,Recettes domaniales et loyers,1,Commune,Recettes_propres
+6,emprunt,Emprunts et remboursements,0,Organisme_pret,Financement_externe
+7,investissement,Depenses d'investissement,0,Multiple,Investissement
+8,depense,Depenses de fonctionnement,0,NA,Fonctionnement
+9,autre,Non classe,0,Inconnu,Autre

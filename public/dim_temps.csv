@@ -1,0 +1,12 @@
+﻿id_temps,annee,decennie,periode_label,avant_covid,has_recettes,est_previsionnel
+1,2015,2010,Budget 2015,1,0,0
+2,2016,2010,Budget 2016,1,0,0
+3,2017,2010,Budget 2017,1,0,0
+4,2018,2010,Budget 2018,1,0,0
+5,2019,2010,Budget 2019,1,0,0
+6,2020,2020,Budget 2020,0,1,1
+7,2021,2020,Budget 2021,0,1,0
+8,2022,2020,Budget 2022,0,1,0
+9,2023,2020,Budget 2023,0,1,0
+10,2024,2020,Budget 2024,0,1,0
+11,2025,2020,Budget 2025,0,1,0

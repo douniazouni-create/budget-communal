@@ -1,0 +1,1383 @@
+﻿id_budget,chapitre,article,paragraphe,ligne,libelle,code_eco,niveau_hierarchique,libelle_court
+1,10.0,10.0,10.0,11.0,Indemnités au président et aux conseillers y ayant droit,1290.0,ligne,Indemnités au président et aux conseillers y ayant
+2,10.0,10.0,10.0,12.0,Frais de transport du président et des conseillers à l'intérieur du,4211.0,ligne,Frais de transport du président et des conseillers
+3,10.0,10.0,10.0,13.0,Frais de transport du président et des conseillers à l'étranger,4212.0,ligne,Frais de transport du président et des conseillers
+4,10.0,10.0,10.0,14.0,Frais de déplacement du président et des conseillers à l'intérieur du,4221.0,ligne,Frais de déplacement du président et des conseille
+5,10.0,10.0,10.0,15.0,Frais de mission du président et des conseillers à l'étranger,4222.0,ligne,Frais de mission du président et des conseillers à
+6,10.0,10.0,10.0,16.0,Frais d'assurance des membres,4930.0,ligne,Frais d'assurance des membres
+7,10.0,10.0,20.0,21.0,Achat de petit matériel fongible de décoration et de pavoisement,3910.0,ligne,Achat de petit matériel fongible de décoration et 
+8,10.0,10.0,20.0,22.0,Location de matériel des fêtes,4490.0,ligne,Location de matériel des fêtes
+9,10.0,10.0,20.0,23.0,Achat d'objets d'art ou cadeaux remis en prix,3990.0,ligne,Achat d'objets d'art ou cadeaux remis en prix
+10,10.0,10.0,20.0,24.0,"Frais d'hébergement, de restauration et de réception",4700.0,ligne,"Frais d'hébergement, de restauration et de récepti"
+11,10.0,10.0,20.0,25.0,Frais d'animation artistiques et culturelles,4590.0,ligne,Frais d'animation artistiques et culturelles
+12,10.0,10.0,30.0,31.0,Cotisation à l'association internationale des Régions froncophones,5910.0,ligne,Cotisation à l'association internationale des Régi
+13,10.0,10.0,30.0,32.0,Cotisation à FOGAR,5910.0,ligne,Cotisation à FOGAR
+14,10.0,10.0,30.0,33.0,Cotisation de la Région à la conférence des Régions Péréphiriques,5910.0,ligne,Cotisation de la Région à la conférence des Région
+15,10.0,10.0,30.0,34.0,Cotisation annuelle à l'association des Régions Marocaines,5910.0,ligne,Cotisation annuelle à l'association des Régions Ma
+16,10.0,10.0,30.0,35.0,Cotisation à l'organisation des Cités et Gouvernement Locaux,5910.0,ligne,Cotisation à l'organisation des Cités et Gouvernem
+17,10.0,10.0,30.0,36.0,Cotisation à ADEFRAM,5910.0,ligne,Cotisation à ADEFRAM
+18,10.0,10.0,40.0,41.0,Frais de transport à l'intérieur du Royaume,4211.0,ligne,Frais de transport à l'intérieur du Royaume
+19,10.0,10.0,40.0,42.0,Frais de transport à l'étranger,4212.0,ligne,Frais de transport à l'étranger
+20,10.0,10.0,40.0,43.0,Frais de mission à l'étranger,4222.0,ligne,Frais de mission à l'étranger
+21,10.0,10.0,40.0,44.0,"Frais d'hebergement, de restauration et de réception",4700.0,ligne,"Frais d'hebergement, de restauration et de récepti"
+22,10.0,10.0,50.0,51.0,Abonnement aux bulletins officiels et aux journaux et revues,4990.0,ligne,Abonnement aux bulletins officiels et aux journaux
+23,10.0,10.0,50.0,52.0,Abonnement aux agences d'information,4940.0,ligne,Abonnement aux agences d'information
+24,10.0,10.0,50.0,53.0,Abonnement aux réseaux d'information,4990.0,ligne,Abonnement aux réseaux d'information
+25,10.0,10.0,50.0,54.0,Achat de documentations diverses,3520.0,ligne,Achat de documentations diverses
+26,10.0,10.0,50.0,55.0,Abonnement aux réseaux d'eau et d'éléctricité,4990.0,ligne,Abonnement aux réseaux d'eau et d'éléctricité
+27,10.0,10.0,60.0,61.0,Frais de réception,4700.0,ligne,Frais de réception
+28,10.0,10.0,60.0,62.0,Frais d'hebergement et de restauration,4700.0,ligne,Frais d'hebergement et de restauration
+29,10.0,10.0,60.0,63.0,Frais de transport,4210.0,ligne,Frais de transport
+30,10.0,10.0,60.0,64.0,Fournitures et impression,3510.0,ligne,Fournitures et impression
+31,10.0,10.0,60.0,65.0,Location de matériel didactique,4490.0,ligne,Location de matériel didactique
+32,10.0,10.0,60.0,66.0,Frais d'honoraires,4550.0,ligne,Frais d'honoraires
+33,10.0,10.0,60.0,67.0,Vacations,4540.0,ligne,Vacations
+34,10.0,10.0,60.0,68.0,Frais d'animation,4590.0,ligne,Frais d'animation
+35,10.0,20.0,10.0,11.0,Traitements et indémnités permanentes du personnel titulaire et,1110.0,ligne,Traitements et indémnités permanentes du personnel
+36,10.0,20.0,10.0,12.0,Salaires et indemnités permanentes du personnel non titulaire,1120.0,ligne,Salaires et indemnités permanentes du personnel no
+37,10.0,20.0,10.0,13.0,Salaires des assujettis au service civil,1140.0,ligne,Salaires des assujettis au service civil
+38,10.0,20.0,10.0,14.0,Salaires du personnel occasionnel,1140.0,ligne,Salaires du personnel occasionnel
+39,10.0,20.0,10.0,15.0,Salaires et traitements des volontaires au service national actif,1190.0,ligne,Salaires et traitements des volontaires au service
+40,10.0,20.0,20.0,21.0,Indemnités pour travaux supplémentaires,1210.0,ligne,Indemnités pour travaux supplémentaires
+41,10.0,20.0,20.0,22.0,indémnités de caisse,1220.0,ligne,indémnités de caisse
+42,10.0,20.0,20.0,23.0,Inemnités d'usure d'effet,1210.0,ligne,Inemnités d'usure d'effet
+43,10.0,20.0,20.0,24.0,Indemnités pour travaux pénibles et salissants,1230.0,ligne,Indemnités pour travaux pénibles et salissants
+44,10.0,20.0,20.0,25.0,Vacations,1210.0,ligne,Vacations
+45,10.0,20.0,30.0,31.0,Participations patronales à la caisse marocaine de retraite (C.M.R.),1311.0,ligne,Participations patronales à la caisse marocaine de
+46,10.0,20.0,30.0,32.0,Participations patronales au régime collectif d'allocation de retraite,1312.0,ligne,Participations patronales au régime collectif d'al
+47,10.0,20.0,30.0,33.0,Participations patronales aux organismes de prévoyance sociale,1320.0,ligne,Participations patronales aux organismes de prévoy
+48,10.0,20.0,30.0,34.0,Prime de naissance,1420.0,ligne,Prime de naissance
+49,10.0,20.0,30.0,35.0,Assurance du personnel ouvrier,4930.0,ligne,Assurance du personnel ouvrier
+50,10.0,20.0,30.0,36.0,Aide exceptionnelle au logement,1430.0,ligne,Aide exceptionnelle au logement
+51,10.0,20.0,30.0,37.0,Assistance au titre du pèlerinage aux lieux saints de l'islam,5810.0,ligne,Assistance au titre du pèlerinage aux lieux saints
+52,10.0,20.0,30.0,38.0,Habillement des agents y ayant droit,3420.0,ligne,Habillement des agents y ayant droit
+53,10.0,20.0,40.0,41.0,Frais de déplacement à l'intérieur du Royaume,4221.0,ligne,Frais de déplacement à l'intérieur du Royaume
+54,10.0,20.0,40.0,42.0,Frais de mission à l'étranger,4222.0,ligne,Frais de mission à l'étranger
+55,10.0,20.0,40.0,43.0,Frais de transport à l'intérieur du Royaume,4211.0,ligne,Frais de transport à l'intérieur du Royaume
+56,10.0,20.0,40.0,44.0,Frais de stage,4220.0,ligne,Frais de stage
+57,10.0,30.0,10.0,11.0,Location de bâtiments administratifs,4412.0,ligne,Location de bâtiments administratifs
+58,10.0,30.0,10.0,12.0,Location de logements,4413.0,ligne,Location de logements
+59,10.0,30.0,10.0,13.0,Location de terrains,4411.0,ligne,Location de terrains
+60,10.0,30.0,10.0,14.0,Location de matériel de transport et engins,4421.0,ligne,Location de matériel de transport et engins
+61,10.0,30.0,10.0,15.0,Location de matériel informatique,4423.0,ligne,Location de matériel informatique
+62,10.0,30.0,20.0,21.0,Entretien courant de bâtiments administratifs,4111.0,ligne,Entretien courant de bâtiments administratifs
+63,10.0,30.0,20.0,22.0,Entretien courant de logements,4112.0,ligne,Entretien courant de logements
+64,10.0,30.0,20.0,23.0,Entretien et réparation courant de matériel informatique,4133.0,ligne,Entretien et réparation courant de matériel inform
+65,10.0,30.0,20.0,24.0,Entretien courant de matériel et mobilier de bureau,4134.0,ligne,Entretien courant de matériel et mobilier de burea
+66,10.0,30.0,20.0,25.0,"Entretien courant de réseaux téléphoniques, électriques et d'eau",4190.0,ligne,"Entretien courant de réseaux téléphoniques, électr"
+67,10.0,30.0,20.0,26.0,Entretien courant de matériel technique,4132.0,ligne,Entretien courant de matériel technique
+68,10.0,30.0,30.0,31.0,"Fournitures de bureau, produits d'impression, papeterie et imprimés",3510.0,ligne,"Fournitures de bureau, produits d'impression, pape"
+69,10.0,30.0,30.0,32.0,Fournitures pour matériel technique et informatique,3530.0,ligne,Fournitures pour matériel technique et informatiqu
+70,10.0,30.0,30.0,33.0,Fournitures et produits de publication,3590.0,ligne,Fournitures et produits de publication
+71,10.0,30.0,40.0,41.0,Achat de carburants et lubrifiants,3310.0,ligne,Achat de carburants et lubrifiants
+72,10.0,30.0,40.0,42.0,Pièces de rechange et pneumatique pour les véhicules et engins,3710.0,ligne,Pièces de rechange et pneumatique pour les véhicul
+73,10.0,30.0,40.0,43.0,Entretien et réparation de véhicules et engins,4131.0,ligne,Entretien et réparation de véhicules et engins
+74,10.0,30.0,40.0,44.0,Frais d'assurance de véhicules et engins,4930.0,ligne,Frais d'assurance de véhicules et engins
+75,10.0,30.0,40.0,45.0,Taxe spéciale sur les véhicules,2900.0,ligne,Taxe spéciale sur les véhicules
+76,10.0,30.0,50.0,51.0,Achat de produits bruts des carrières,3210.0,ligne,Achat de produits bruts des carrières
+77,10.0,30.0,50.0,52.0,"Achat de ciment, trottoirs et carreaux",3220.0,ligne,"Achat de ciment, trottoirs et carreaux"
+78,10.0,30.0,50.0,53.0,Achat de bois,3230.0,ligne,Achat de bois
+79,10.0,30.0,50.0,54.0,"Achat de produits de feronnerie, regards et buses",3240.0,ligne,"Achat de produits de feronnerie, regards et buses"
+80,10.0,30.0,50.0,55.0,Achat de vitrerie,3250.0,ligne,Achat de vitrerie
+81,10.0,30.0,50.0,56.0,Achat de peinture,3260.0,ligne,Achat de peinture
+82,10.0,30.0,50.0,57.0,Achat d'articles sanitaires et de plomberie,3270.0,ligne,Achat d'articles sanitaires et de plomberie
+83,10.0,30.0,50.0,58.0,Achat de petit matériel électrique,3280.0,ligne,Achat de petit matériel électrique
+84,10.0,30.0,50.0,59.0,Achat de bitume,3350.0,ligne,Achat de bitume
+85,10.0,30.0,50.0,60.0,Achat de chaux,3290.0,ligne,Achat de chaux
+86,10.0,30.0,50.0,61.0,Achat d'agglomérés,3290.0,ligne,Achat d'agglomérés
+87,10.0,30.0,50.0,62.0,Achat de briques,3290.0,ligne,Achat de briques
+88,10.0,30.0,60.0,61.0,Achat de produits d'entretien ménager,3630.0,ligne,Achat de produits d'entretien ménager
+89,10.0,30.0,60.0,62.0,Achat de produits désinfectants,3640.0,ligne,Achat de produits désinfectants
+90,10.0,30.0,70.0,71.0,Frais de fourniture de bétail et harnachement,3120.0,ligne,Frais de fourniture de bétail et harnachement
+91,10.0,30.0,70.0,72.0,Achat d'armes et munitions,3990.0,ligne,Achat d'armes et munitions
+92,10.0,30.0,70.0,73.0,Achat d'encre d'estampillage des viandes,3990.0,ligne,Achat d'encre d'estampillage des viandes
+93,10.0,30.0,70.0,74.0,Achat de graisse,3390.0,ligne,Achat de graisse
+94,10.0,30.0,70.0,75.0,Entretien et renouvellement de petit matériel,3390.0,ligne,Entretien et renouvellement de petit matériel
+95,10.0,30.0,80.0,81.0,Etudes générales,4510.0,ligne,Etudes générales
+96,10.0,30.0,80.0,82.0,Honoraires,4550.0,ligne,Honoraires
+97,10.0,30.0,80.0,83.0,Frais d'établissement des états de paie par d'autres organismes,4550.0,ligne,Frais d'établissement des états de paie par d'autr
+98,10.0,30.0,80.0,84.0,Frais d'études techniques et d'analyses,4520.0,ligne,Frais d'études techniques et d'analyses
+99,10.0,30.0,90.0,91.0,Redevances d'électricité,3320.0,ligne,Redevances d'électricité
+100,10.0,30.0,90.0,92.0,Redevances d'eau,3330.0,ligne,Redevances d'eau
+101,10.0,30.0,90.0,93.0,Frais de chauffage et produits de chauffage,3360.0,ligne,Frais de chauffage et produits de chauffage
+102,10.0,30.0,90.0,94.0,Taxes et redevances de télécommunication,4300.0,ligne,Taxes et redevances de télécommunication
+103,10.0,30.0,90.0,95.0,Taxes postales et affranchissement,4340.0,ligne,Taxes postales et affranchissement
+104,10.0,30.0,90.0,96.0,Assurances incendies et responsabilités civiles,4930.0,ligne,Assurances incendies et responsabilités civiles
+105,10.0,30.0,90.0,97.0,Publicités,4600.0,ligne,Publicités
+106,10.0,30.0,90.0,98.0,"Annonces légales, insertion, frais de publication",4600.0,ligne,"Annonces légales, insertion, frais de publication"
+107,10.0,30.0,90.0,99.0,Impôts et taxes,2900.0,ligne,Impôts et taxes
+108,10.0,40.0,10.0,11.0,Amortissement en capital de l'emprunt n contracté auprès,9110.0,ligne,Amortissement en capital de l'emprunt n contracté 
+109,10.0,40.0,10.0,12.0,Amortissement en capital de l'emprunt n contracté auprès,9110.0,ligne,Amortissement en capital de l'emprunt n contracté 
+110,10.0,40.0,10.0,13.0,Amortissement en capital de l'emprunt n contracté auprès,9110.0,ligne,Amortissement en capital de l'emprunt n contracté 
+111,10.0,40.0,20.0,21.0,Remboursement de l'avance ndu,9130.0,ligne,Remboursement de l'avance ndu
+112,10.0,40.0,20.0,22.0,Remboursement de l'avance ndu,9130.0,ligne,Remboursement de l'avance ndu
+113,10.0,50.0,10.0,11.0,Intérêts de l'emprunt contracté auprès du FEC,9110.0,ligne,Intérêts de l'emprunt contracté auprès du FEC
+114,10.0,50.0,10.0,12.0,Intérêts de l'emprunt n contracté auprès du FEC,9110.0,ligne,Intérêts de l'emprunt n contracté auprès du FEC
+115,10.0,50.0,10.0,13.0,Intérêts de l'emprunt nducontracté auprès du,9110.0,ligne,Intérêts de l'emprunt nducontracté auprès du
+116,10.0,50.0,20.0,21.0,Intérêts de retard,9110.0,ligne,Intérêts de retard
+117,20.0,10.0,10.0,11.0,Subventions aux associations des oeuvres sociales du personnel,5730.0,ligne,Subventions aux associations des oeuvres sociales 
+118,20.0,10.0,10.0,12.0,Subventions aux institutions publiques de bienfaisance,5710.0,ligne,Subventions aux institutions publiques de bienfais
+119,20.0,10.0,10.0,13.0,Subventions aux oeuvres philanthropiques,5710.0,ligne,Subventions aux oeuvres philanthropiques
+120,20.0,10.0,10.0,14.0,Subventions aux autres institutions sociales,5710.0,ligne,Subventions aux autres institutions sociales
+121,20.0,10.0,20.0,21.0,Frais de circoncision,5890.0,ligne,Frais de circoncision
+122,20.0,10.0,20.0,22.0,Frais de transport des enfants vers les colonies de vacances,5890.0,ligne,Frais de transport des enfants vers les colonies d
+123,20.0,10.0,20.0,23.0,Dons et secours en faveur des indigents,5890.0,ligne,Dons et secours en faveur des indigents
+124,20.0,10.0,20.0,24.0,Frais d'inhumation et de dépouillage,5890.0,ligne,Frais d'inhumation et de dépouillage
+125,20.0,10.0,20.0,25.0,Frais d'hospitalisation des indigents,5890.0,ligne,Frais d'hospitalisation des indigents
+126,20.0,10.0,20.0,26.0,Frais de transport des malades vers les centres hospitaliers,5890.0,ligne,Frais de transport des malades vers les centres ho
+127,20.0,10.0,20.0,27.0,Achat de produits alimentaires à usage humain,3110.0,ligne,Achat de produits alimentaires à usage humain
+128,20.0,20.0,10.0,11.0,Allocations aux associations sportives,5710.0,ligne,Allocations aux associations sportives
+129,20.0,20.0,10.0,12.0,Allocations aux clubs sportifs,5720.0,ligne,Allocations aux clubs sportifs
+130,20.0,20.0,20.0,21.0,Partipation aux frais de fonctionnement des salles de sports,5710.0,ligne,Partipation aux frais de fonctionnement des salles
+131,20.0,20.0,20.0,22.0,Partipation aux frais de fonctionnement des terrains de sports,5720.0,ligne,Partipation aux frais de fonctionnement des terrai
+132,20.0,20.0,20.0,23.0,Participation aux frais de fonctionnement des complexes sportifs,5710.0,ligne,Participation aux frais de fonctionnement des comp
+133,20.0,20.0,20.0,24.0,Achat d'articles de sport,3990.0,ligne,Achat d'articles de sport
+134,20.0,30.0,10.0,11.0,Achat de produits pharmaceutiques pour les B.M.H. et les centres,3610.0,ligne,Achat de produits pharmaceutiques pour les B.M.H. 
+135,20.0,30.0,10.0,12.0,"Produits d'hygiène pour les B.M.H., centres hospitaliers et",3600.0,ligne,"Produits d'hygiène pour les B.M.H., centres hospit"
+136,20.0,30.0,10.0,13.0,Achat de produits pour dératisation,3600.0,ligne,Achat de produits pour dératisation
+137,20.0,30.0,10.0,14.0,Achat de pecticides et insecticides,3640.0,ligne,Achat de pecticides et insecticides
+138,20.0,30.0,10.0,15.0,Achat de petit matériel pour les B.M.H,3910.0,ligne,Achat de petit matériel pour les B.M.H
+139,20.0,30.0,20.0,21.0,Achat de produits de vaccination,3610.0,ligne,Achat de produits de vaccination
+140,20.0,30.0,20.0,22.0,Achat de petit matériel de vaccination,3990.0,ligne,Achat de petit matériel de vaccination
+141,20.0,40.0,10.0,11.0,Achat de petit matériel et outillage,3910.0,ligne,Achat de petit matériel et outillage
+142,20.0,40.0,10.0,12.0,Achat de produits de laboratoire,3610.0,ligne,Achat de produits de laboratoire
+143,20.0,40.0,10.0,13.0,Achat d'habillement et de linge,3420.0,ligne,Achat d'habillement et de linge
+144,20.0,40.0,20.0,21.0,Entretien courant des bâtiments des centres hospitaliers,4110.0,ligne,Entretien courant des bâtiments des centres hospit
+145,20.0,40.0,20.0,22.0,Entretien courant des bâtiments des dispensaires,4110.0,ligne,Entretien courant des bâtiments des dispensaires
+146,20.0,40.0,30.0,31.0,Entretien et réparation courant de matériel technique,4132.0,ligne,Entretien et réparation courant de matériel techni
+147,20.0,40.0,30.0,32.0,Entretien et réparation courant du mobilier et matériel de bureau,4134.0,ligne,Entretien et réparation courant du mobilier et mat
+148,20.0,50.0,10.0,11.0,Achat de fournitures scolaires,3510.0,ligne,Achat de fournitures scolaires
+149,20.0,50.0,10.0,12.0,Achat de livres remis en prix,3990.0,ligne,Achat de livres remis en prix
+150,20.0,50.0,10.0,13.0,Achat de denrées alimentaires pour les cantines,3110.0,ligne,Achat de denrées alimentaires pour les cantines
+151,20.0,50.0,20.0,21.0,Entretien et réparation courants de matériel et mobilier,4134.0,ligne,Entretien et réparation courants de matériel et mo
+152,20.0,50.0,20.0,22.0,Entretien courant de bâtiments,4111.0,ligne,Entretien courant de bâtiments
+153,20.0,60.0,10.0,11.0,Achat de fournitures scolaires,3510.0,ligne,Achat de fournitures scolaires
+154,20.0,60.0,10.0,12.0,Achat de livres pour les bibliothèques,3520.0,ligne,Achat de livres pour les bibliothèques
+155,20.0,60.0,10.0,13.0,Achat de livres pour la remise en prix,3990.0,ligne,Achat de livres pour la remise en prix
+156,20.0,60.0,10.0,14.0,Achat de denrées alimentaires pour les internats,3110.0,ligne,Achat de denrées alimentaires pour les internats
+157,20.0,60.0,10.0,15.0,Achat d'habillement et de linge pour les internats,3420.0,ligne,Achat d'habillement et de linge pour les internats
+158,20.0,60.0,10.0,16.0,Achat de petit matériel pour les internats,3910.0,ligne,Achat de petit matériel pour les internats
+159,20.0,60.0,20.0,21.0,Entretien et réparation courants de matériel,4130.0,ligne,Entretien et réparation courants de matériel
+160,20.0,60.0,20.0,22.0,Entretien et réparation courants de bâtiments,4111.0,ligne,Entretien et réparation courants de bâtiments
+161,20.0,70.0,10.0,11.0,Participation aux frais de fonctionnement des centres de formation,5510.0,ligne,Participation aux frais de fonctionnement des cent
+162,20.0,70.0,10.0,12.0,Participation aux frais de fonctionnement des instituts de formation,5510.0,ligne,Participation aux frais de fonctionnement des inst
+163,20.0,70.0,10.0,13.0,Frais de formation continue pour les élus,4540.0,ligne,Frais de formation continue pour les élus
+164,20.0,70.0,10.0,14.0,Frais de formation continue pour le personnel de la collectivité,4540.0,ligne,Frais de formation continue pour le personnel de l
+165,20.0,70.0,10.0,15.0,Frais de fonctionnement des foyers socioculturels de femme,4540.0,ligne,Frais de fonctionnement des foyers socioculturels 
+166,20.0,70.0,10.0,16.0,Frais de fonctionnement des garderies d'enfants,4540.0,ligne,Frais de fonctionnement des garderies d'enfants
+167,20.0,80.0,10.0,11.0,Achat de livres,3520.0,ligne,Achat de livres
+168,20.0,80.0,10.0,12.0,Entretien et réparation courants de matériel et de mobilier,4134.0,ligne,Entretien et réparation courants de matériel et de
+169,20.0,80.0,10.0,13.0,Entretien courant de bâtiments,4110.0,ligne,Entretien courant de bâtiments
+170,20.0,80.0,10.0,14.0,Reliure de livres et registres divers,3510.0,ligne,Reliure de livres et registres divers
+171,20.0,80.0,20.0,21.0,Achat d'instruments de musique,3990.0,ligne,Achat d'instruments de musique
+172,20.0,80.0,20.0,22.0,Entretien et réparation courants de matériel technique,4132.0,ligne,Entretien et réparation courants de matériel techn
+173,20.0,80.0,20.0,23.0,Entretien courant de bâtiments,4110.0,ligne,Entretien courant de bâtiments
+174,20.0,80.0,30.0,31.0,Achat de petit matériel,3910.0,ligne,Achat de petit matériel
+175,20.0,80.0,30.0,32.0,Entretien courant de bâtiments,4110.0,ligne,Entretien courant de bâtiments
+176,20.0,80.0,30.0,33.0,Entretien et réparation courants de matériel,4130.0,ligne,Entretien et réparation courants de matériel
+177,20.0,80.0,40.0,41.0,Entretien et réparation courants de matériel,4130.0,ligne,Entretien et réparation courants de matériel
+178,20.0,80.0,40.0,42.0,Entretien courant de bâtiments,4110.0,ligne,Entretien courant de bâtiments
+179,20.0,80.0,50.0,51.0,Entretien et réparation courants de matériel,4130.0,ligne,Entretien et réparation courants de matériel
+180,20.0,80.0,50.0,52.0,Entretien courant de bâtiments,4111.0,ligne,Entretien courant de bâtiments
+181,20.0,80.0,60.0,61.0,Entretien de monuments historiques,4111.0,ligne,Entretien de monuments historiques
+182,20.0,80.0,70.0,71.0,Fournitures pour ateliers,3990.0,ligne,Fournitures pour ateliers
+183,20.0,80.0,70.0,72.0,Entretien de material courant,4130.0,ligne,Entretien de material courant
+184,20.0,80.0,70.0,73.0,Entretien courant de batîments,4110.0,ligne,Entretien courant de batîments
+185,20.0,80.0,80.0,81.0,Allocation en faveur des associations culturelles,5720.0,ligne,Allocation en faveur des associations culturelles
+186,20.0,90.0,10.0,11.0,Cérémonies religieuses,4800.0,ligne,Cérémonies religieuses
+187,20.0,90.0,20.0,21.0,Achat de matériaux de construction,3200.0,ligne,Achat de matériaux de construction
+188,20.0,90.0,20.0,22.0,Entretien et réparation courants de cimetières,4190.0,ligne,Entretien et réparation courants de cimetières
+189,20.0,90.0,20.0,23.0,Frais de transport des morts,4219.0,ligne,Frais de transport des morts
+190,20.0,90.0,20.0,24.0,Frais de lavage et enterrements des morts,4990.0,ligne,Frais de lavage et enterrements des morts
+191,30.0,10.0,10.0,11.0,Achat d'arbres et de plantes,3190.0,ligne,Achat d'arbres et de plantes
+192,30.0,10.0,10.0,12.0,Achat de graines et fleurs de plantation,3190.0,ligne,Achat de graines et fleurs de plantation
+193,30.0,10.0,10.0,13.0,Achat d'engrais,3620.0,ligne,Achat d'engrais
+194,30.0,10.0,10.0,14.0,Achat de petit matériel de signalisation,3910.0,ligne,Achat de petit matériel de signalisation
+195,30.0,10.0,10.0,15.0,Achat des plaques de rotation des immeubles,3920.0,ligne,Achat des plaques de rotation des immeubles
+196,30.0,10.0,10.0,16.0,Achat des plaques des noms des rues,3920.0,ligne,Achat des plaques des noms des rues
+197,30.0,10.0,10.0,17.0,Achat de petit matériel,3910.0,ligne,Achat de petit matériel
+198,30.0,10.0,10.0,18.0,Achat de buses et regards en fonte,3290.0,ligne,Achat de buses et regards en fonte
+199,30.0,10.0,20.0,21.0,"Entretien courant d'espaces verts, jardins et forêts",4190.0,ligne,"Entretien courant d'espaces verts, jardins et forê"
+200,30.0,10.0,20.0,22.0,"Entretien de places publiques, parcs, parckings et décharges",4121.0,ligne,"Entretien de places publiques, parcs, parckings et"
+201,30.0,10.0,20.0,23.0,Entretien de plages ou piscines,4190.0,ligne,Entretien de plages ou piscines
+202,30.0,10.0,20.0,24.0,Entretien d'égouts,4190.0,ligne,Entretien d'égouts
+203,30.0,10.0,20.0,25.0,Entretien courant de voies,4122.0,ligne,Entretien courant de voies
+204,30.0,10.0,20.0,27.0,Entretien de bâtiments techniques,4113.0,ligne,Entretien de bâtiments techniques
+205,30.0,10.0,20.0,28.0,Entretien de campings,4190.0,ligne,Entretien de campings
+206,30.0,10.0,20.0,29.0,Entretien d'installations sportives,4190.0,ligne,Entretien d'installations sportives
+207,30.0,10.0,20.0,30.0,Entretien d'installations d'eau publique,4190.0,ligne,Entretien d'installations d'eau publique
+208,30.0,10.0,20.0,31.0,Entretien d'installations d'éclairage public,4190.0,ligne,Entretien d'installations d'éclairage public
+209,30.0,10.0,20.0,32.0,Entretien d'autres installations,4190.0,ligne,Entretien d'autres installations
+210,30.0,20.0,10.0,11.0,Entretien et réparation courants de réseaux et installation d'électricité,4123.0,ligne,Entretien et réparation courants de réseaux et ins
+211,30.0,20.0,10.0,12.0,Entretien courant d'ouvrages d'électricité publique,4123.0,ligne,Entretien courant d'ouvrages d'électricité publiqu
+212,30.0,20.0,10.0,13.0,"Entretien courant de générateurs, postes de transformation et groupe",4190.0,ligne,"Entretien courant de générateurs, postes de transf"
+213,30.0,20.0,10.0,14.0,Achat de matériel d'entretien,3990.0,ligne,Achat de matériel d'entretien
+214,30.0,20.0,20.0,21.0,Redevances,3320.0,ligne,Redevances
+215,30.0,30.0,10.0,11.0,Redevances,3330.0,ligne,Redevances
+216,30.0,30.0,10.0,12.0,Achat de matériel d'entretien,3990.0,ligne,Achat de matériel d'entretien
+217,40.0,10.0,10.0,10.0,Aides aux agriculteurs,5100.0,ligne,Aides aux agriculteurs
+218,40.0,20.0,10.0,11.0,Artisanales,7700.0,ligne,Artisanales
+219,50.0,10.0,10.0,11.0,Remboursement aux particuliers,5890.0,ligne,Remboursement aux particuliers
+220,50.0,10.0,10.0,12.0,Remboursement aux entreprises,5120.0,ligne,Remboursement aux entreprises
+221,50.0,10.0,20.0,21.0,Dommages et intérêts au profit des tiers,5840.0,ligne,Dommages et intérêts au profit des tiers
+222,50.0,10.0,20.0,22.0,Frais de procédures et d'instances,5890.0,ligne,Frais de procédures et d'instances
+223,50.0,20.0,10.0,10.0,Personnel,1190.0,ligne,Personnel
+224,50.0,20.0,20.0,20.0,Matériel et frais de fonctionnement,3590.0,ligne,Matériel et frais de fonctionnement
+225,50.0,30.0,10.0,11.0,Travaux de salubrité et sécurité publiques exécutés pour le compte,5400.0,ligne,Travaux de salubrité et sécurité publiques exécuté
+226,50.0,40.0,10.0,11.0,Concours au budget annexe de,5300.0,ligne,Concours au budget annexe de
+227,50.0,40.0,10.0,12.0,Concours au budget annexe de,5300.0,ligne,Concours au budget annexe de
+228,50.0,40.0,10.0,13.0,Concours au budget annexe de,5300.0,ligne,Concours au budget annexe de
+229,50.0,40.0,10.0,14.0,Concours au budget annexe de,5300.0,ligne,Concours au budget annexe de
+230,50.0,40.0,20.0,21.0,Versement au C.C.D de,5400.0,ligne,Versement au C.C.D de
+231,50.0,40.0,20.0,22.0,Versement au C.C.D de,5400.0,ligne,Versement au C.C.D de
+232,50.0,40.0,20.0,23.0,Versement au C.C.D de,5400.0,ligne,Versement au C.C.D de
+233,50.0,40.0,30.0,31.0,Versement au C.A.S de,5400.0,ligne,Versement au C.A.S de
+234,50.0,40.0,30.0,32.0,Versement au C.A.S de,5400.0,ligne,Versement au C.A.S de
+235,50.0,40.0,30.0,33.0,Versement au C.A.S de,5400.0,ligne,Versement au C.A.S de
+236,50.0,40.0,40.0,41.0,Versement aux collectivités locales,5610.0,ligne,Versement aux collectivités locales
+237,50.0,40.0,40.0,42.0,Versement,5610.0,ligne,Versement
+238,50.0,40.0,40.0,43.0,Versement,5610.0,ligne,Versement
+239,50.0,40.0,50.0,51.0,Versement au groupement,5610.0,ligne,Versement au groupement
+240,50.0,40.0,50.0,52.0,Versement au groupement,5610.0,ligne,Versement au groupement
+241,50.0,40.0,50.0,53.0,Versement au groupement,5610.0,ligne,Versement au groupement
+242,50.0,40.0,60.0,61.0,Versement au fond ramed,5620.0,ligne,Versement au fond ramed
+243,50.0,40.0,60.0,62.0,Versement à l'association Lalla Salma de lutte contre le cancer,5620.0,ligne,Versement à l'association Lalla Salma de lutte con
+244,50.0,40.0,60.0,63.0,Versement aux entreprise privees en contre partie des services,5123.0,ligne,Versement aux entreprise privees en contre partie 
+245,50.0,40.0,60.0,64.0,Versement à l'association Mohammadia pour la protection sociale,5113.0,ligne,Versement à l'association Mohammadia pour la prote
+246,50.0,40.0,60.0,65.0,Versement à l'association des Salons d'Agriculture et du cheval de la,5111.0,ligne,Versement à l'association des Salons d'Agriculture
+247,50.0,40.0,60.0,66.0,Versement aux associations des festivals et festival de la Région,5530.0,ligne,Versement aux associations des festivals et festiv
+248,50.0,40.0,60.0,67.0,"Versement au service d'acceuil, d'assistance et d'evaluation des",5510.0,ligne,"Versement au service d'acceuil, d'assistance et d'"
+249,50.0,40.0,60.0,68.0,Versement aux univesités,5510.0,ligne,Versement aux univesités
+250,50.0,40.0,60.0,69.0,Versement aux laboratoires publics et services relevant du ministère,5510.0,ligne,Versement aux laboratoires publics et services rel
+251,60.0,10.0,10.0,11.0,Versement de l'excédent à la 2ème partie,500.0,ligne,Versement de l'excédent à la 2ème partie
+252,10.0,11.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+253,10.0,11.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+254,10.0,11.0,10.0,13.0,Logements,8130.0,ligne,Logements
+255,10.0,11.0,10.0,14.0,Droits et taxes liés aux acquisitions immobilières,2400.0,ligne,Droits et taxes liés aux acquisitions immobilières
+256,10.0,11.0,20.0,21.0,Etudes et assistance techniques,8800.0,ligne,Etudes et assistance techniques
+257,10.0,11.0,20.0,22.0,Construction de bâtiments,8210.0,ligne,Construction de bâtiments
+258,10.0,11.0,20.0,23.0,Construction de logements,8210.0,ligne,Construction de logements
+259,10.0,11.0,20.0,24.0,Construction de mûrs de clôture,8250.0,ligne,Construction de mûrs de clôture
+260,10.0,11.0,20.0,25.0,Droits et taxes liés aux constructions,2900.0,ligne,Droits et taxes liés aux constructions
+261,10.0,11.0,30.0,31.0,Terrains,8390.0,ligne,Terrains
+262,10.0,11.0,30.0,32.0,Logements,8260.0,ligne,Logements
+263,10.0,11.0,30.0,33.0,Bâtiments,8260.0,ligne,Bâtiments
+264,10.0,12.0,10.0,11.0,"Véhicules, motocycles,cycles et engins",8510.0,ligne,"Véhicules, motocycles,cycles et engins"
+265,10.0,12.0,10.0,12.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+266,10.0,12.0,10.0,13.0,Matériel technique,8410.0,ligne,Matériel technique
+267,10.0,12.0,10.0,14.0,Matériel informatique,8450.0,ligne,Matériel informatique
+268,10.0,12.0,10.0,15.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+269,10.0,12.0,10.0,16.0,Matériel des fêtes et de pavoisement,8790.0,ligne,Matériel des fêtes et de pavoisement
+270,10.0,12.0,10.0,17.0,Matériel de signalisation,8790.0,ligne,Matériel de signalisation
+271,10.0,12.0,20.0,21.0,"Véhicules, motocycles, cycles et engins",4131.0,ligne,"Véhicules, motocycles, cycles et engins"
+272,10.0,12.0,20.0,22.0,Matériel technique,4132.0,ligne,Matériel technique
+273,10.0,12.0,20.0,23.0,Matériel informatique,4133.0,ligne,Matériel informatique
+274,10.0,12.0,20.0,24.0,Matériel électrique et électronique,4190.0,ligne,Matériel électrique et électronique
+275,10.0,13.0,10.0,11.0,Projet integré de,1000.0,ligne,Projet integré de
+276,10.0,13.0,10.0,12.0,Projet integré de,1000.0,ligne,Projet integré de
+277,10.0,13.0,10.0,13.0,Projet integré de,1000.0,ligne,Projet integré de
+278,10.0,14.0,10.0,11.0,transfert de depouilles mortelles,100.0,ligne,transfert de depouilles mortelles
+279,20.0,11.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+280,20.0,11.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+281,20.0,11.0,10.0,13.0,Droits et taxes liés aux acquisitions immobilières,2400.0,ligne,Droits et taxes liés aux acquisitions immobilières
+282,20.0,11.0,20.0,21.0,Etudes et assistance techniques,8800.0,ligne,Etudes et assistance techniques
+283,20.0,11.0,20.0,22.0,Bâtiments,8250.0,ligne,Bâtiments
+284,20.0,11.0,20.0,23.0,Droits et taxes liés à l'acquisition,2400.0,ligne,Droits et taxes liés à l'acquisition
+285,20.0,11.0,30.0,31.0,Terrains,8390.0,ligne,Terrains
+286,20.0,11.0,30.0,32.0,Bâtiments,8260.0,ligne,Bâtiments
+287,20.0,12.0,10.0,11.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+288,20.0,12.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+289,20.0,12.0,10.0,13.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+290,20.0,12.0,20.0,21.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+291,20.0,12.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+292,20.0,12.0,20.0,23.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+293,20.0,21.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+294,20.0,21.0,10.0,12.0,Droits et taxes liés aux acquisitions immobilières,2400.0,ligne,Droits et taxes liés aux acquisitions immobilières
+295,20.0,21.0,20.0,21.0,Etudes et assistance technique,4520.0,ligne,Etudes et assistance technique
+296,20.0,21.0,20.0,22.0,Stades et complexes sportifs,8250.0,ligne,Stades et complexes sportifs
+297,20.0,21.0,20.0,23.0,Piscines,8250.0,ligne,Piscines
+298,20.0,21.0,20.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+299,20.0,21.0,30.0,31.0,Terrains de sport et de complexes sportifs,8260.0,ligne,Terrains de sport et de complexes sportifs
+300,20.0,21.0,30.0,32.0,Piscines,8250.0,ligne,Piscines
+301,20.0,22.0,10.0,11.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+302,20.0,22.0,10.0,12.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+303,20.0,22.0,10.0,13.0,Matériel de sport,8790.0,ligne,Matériel de sport
+304,20.0,22.0,20.0,21.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+305,20.0,22.0,20.0,22.0,Matériel électique et électronique,8440.0,ligne,Matériel électique et électronique
+306,20.0,22.0,20.0,23.0,Matériel de sport,8790.0,ligne,Matériel de sport
+307,20.0,31.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+308,20.0,31.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+309,20.0,31.0,10.0,13.0,Droits et taxes liés aux acquisitions immobilières,2400.0,ligne,Droits et taxes liés aux acquisitions immobilières
+310,20.0,31.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+311,20.0,31.0,20.0,22.0,Construction de bâtiments,8250.0,ligne,Construction de bâtiments
+312,20.0,31.0,20.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+313,20.0,31.0,30.0,31.0,Terrains,8390.0,ligne,Terrains
+314,20.0,31.0,30.0,32.0,Bâtiments,8260.0,ligne,Bâtiments
+315,20.0,32.0,10.0,11.0,"Véhicules, motocycles,cycles et engins",8510.0,ligne,"Véhicules, motocycles,cycles et engins"
+316,20.0,32.0,10.0,12.0,Matériel et mobilier de bureau et des salles de soins,8710.0,ligne,Matériel et mobilier de bureau et des salles de so
+317,20.0,32.0,10.0,13.0,Matériel technique,8410.0,ligne,Matériel technique
+318,20.0,32.0,20.0,21.0,"Véhicules, motocycles et cycles",8510.0,ligne,"Véhicules, motocycles et cycles"
+319,20.0,32.0,20.0,22.0,Matériel et mobilier de bureau et des salles de soins,8710.0,ligne,Matériel et mobilier de bureau et des salles de so
+320,20.0,32.0,20.0,23.0,Matériel technique,8410.0,ligne,Matériel technique
+321,20.0,41.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+322,20.0,41.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+323,20.0,41.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+324,20.0,41.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+325,20.0,41.0,20.0,22.0,Constructions d'établissements d'enseignement,8250.0,ligne,Constructions d'établissements d'enseignement
+326,20.0,41.0,20.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+327,20.0,41.0,30.0,31.0,Terrains,8360.0,ligne,Terrains
+328,20.0,41.0,30.0,32.0,Bâtiments,8360.0,ligne,Bâtiments
+329,20.0,42.0,10.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+330,20.0,42.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+331,20.0,42.0,10.0,13.0,Matériel didactique,8490.0,ligne,Matériel didactique
+332,20.0,42.0,20.0,21.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+333,20.0,42.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+334,20.0,51.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+335,20.0,51.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+336,20.0,51.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+337,20.0,51.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+338,20.0,51.0,20.0,22.0,Constructions d'établissements d'enseignement,8250.0,ligne,Constructions d'établissements d'enseignement
+339,20.0,51.0,20.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+340,20.0,51.0,30.0,31.0,Terrains,8110.0,ligne,Terrains
+341,20.0,51.0,30.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+342,20.0,52.0,10.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+343,20.0,52.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+344,20.0,52.0,10.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+345,20.0,52.0,10.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+346,20.0,52.0,10.0,15.0,Matériel de sport,8490.0,ligne,Matériel de sport
+347,20.0,52.0,20.0,21.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+348,20.0,52.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+349,20.0,52.0,20.0,23.0,Matériel informatique,8450.0,ligne,Matériel informatique
+350,20.0,61.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+351,20.0,61.0,10.0,12.0,Bâtiments pour les centres de formation administrative,8130.0,ligne,Bâtiments pour les centres de formation administra
+352,20.0,61.0,10.0,13.0,Bâtiments pour les instituts de formation des cadres techniques,8130.0,ligne,Bâtiments pour les instituts de formation des cadr
+353,20.0,61.0,10.0,14.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+354,20.0,61.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+355,20.0,61.0,20.0,22.0,Construction de centres de formation administrative,8250.0,ligne,Construction de centres de formation administrativ
+356,20.0,61.0,20.0,23.0,Construction d'instituts de formation des cadres techniques,8250.0,ligne,Construction d'instituts de formation des cadres t
+357,20.0,61.0,20.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+358,20.0,61.0,30.0,31.0,Terrains,8110.0,ligne,Terrains
+359,20.0,61.0,30.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+360,20.0,62.0,10.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+361,20.0,62.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+362,20.0,62.0,10.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+363,20.0,62.0,10.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+364,20.0,62.0,20.0,21.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+365,20.0,62.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+366,20.0,62.0,20.0,23.0,Matériel informatique,8450.0,ligne,Matériel informatique
+367,20.0,62.0,20.0,24.0,Matériel didactique,8490.0,ligne,Matériel didactique
+368,20.0,62.0,30.0,31.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+369,20.0,62.0,30.0,32.0,Matériel technique,8410.0,ligne,Matériel technique
+370,20.0,62.0,40.0,41.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+371,20.0,62.0,40.0,42.0,Matériel technique,8410.0,ligne,Matériel technique
+372,20.0,71.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+373,20.0,71.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+374,20.0,71.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+375,20.0,71.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+376,20.0,71.0,20.0,22.0,Bâtiments,8130.0,ligne,Bâtiments
+377,20.0,71.0,20.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+378,20.0,71.0,30.0,31.0,Terrains,8110.0,ligne,Terrains
+379,20.0,71.0,30.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+380,20.0,72.0,10.0,11.0,Matériel et mobilier de bureau et des salles de lecture,8710.0,ligne,Matériel et mobilier de bureau et des salles de le
+381,20.0,72.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+382,20.0,72.0,10.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+383,20.0,72.0,10.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+384,20.0,72.0,20.0,21.0,Matériel et mobilier de bureau et des salles de lecture,8710.0,ligne,Matériel et mobilier de bureau et des salles de le
+385,20.0,72.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+386,20.0,72.0,20.0,23.0,Matériel informatique,8450.0,ligne,Matériel informatique
+387,20.0,72.0,20.0,24.0,Matériel didactique,8490.0,ligne,Matériel didactique
+388,20.0,81.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+389,20.0,81.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+390,20.0,81.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+391,20.0,81.0,20.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+392,20.0,81.0,20.0,22.0,Bâtiments,8250.0,ligne,Bâtiments
+393,20.0,81.0,20.0,23.0,Murs d'enceinte et dépenses au profit des cimetières,8250.0,ligne,Murs d'enceinte et dépenses au profit des cimetièr
+394,20.0,81.0,20.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+395,20.0,81.0,30.0,31.0,Terrains,8110.0,ligne,Terrains
+396,20.0,81.0,30.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+397,20.0,82.0,10.0,11.0,Matériel et mobilier,8710.0,ligne,Matériel et mobilier
+398,20.0,82.0,10.0,12.0,Matériel électronique,8440.0,ligne,Matériel électronique
+399,20.0,82.0,20.0,21.0,Matériel et mobilier,8710.0,ligne,Matériel et mobilier
+400,30.0,11.0,10.0,11.0,Etudes générales,4510.0,ligne,Etudes générales
+401,30.0,11.0,10.0,12.0,Etudes techniques,4520.0,ligne,Etudes techniques
+402,30.0,11.0,20.0,21.0,Aménagements,8360.0,ligne,Aménagements
+403,30.0,11.0,20.0,22.0,Alignement des avennues,8390.0,ligne,Alignement des avennues
+404,30.0,11.0,20.0,23.0,Plantation ornementale des voies publiques,8740.0,ligne,Plantation ornementale des voies publiques
+405,30.0,12.0,10.0,11.0,Gros travaux d'entretien,8790.0,ligne,Gros travaux d'entretien
+406,30.0,12.0,10.0,12.0,Gros travaux des sites récréatifs,8250.0,ligne,Gros travaux des sites récréatifs
+407,30.0,12.0,20.0,21.0,Gros travaux de reboisement,8740.0,ligne,Gros travaux de reboisement
+408,30.0,12.0,20.0,22.0,Gros travaux d'aménagement des espaces verts,8740.0,ligne,Gros travaux d'aménagement des espaces verts
+409,30.0,21.0,10.0,11.0,Voies urbaines,8318.0,ligne,Voies urbaines
+410,30.0,21.0,10.0,12.0,Voies intercommunales,8318.0,ligne,Voies intercommunales
+411,30.0,21.0,10.0,13.0,Chemins vicinaux et pistes,8318.0,ligne,Chemins vicinaux et pistes
+412,30.0,21.0,20.0,21.0,Ponts,8390.0,ligne,Ponts
+413,30.0,21.0,20.0,22.0,Viaducs,8390.0,ligne,Viaducs
+414,30.0,21.0,30.0,31.0,Voies urbaines,8319.0,ligne,Voies urbaines
+415,30.0,21.0,30.0,32.0,Voies intercommunales,8319.0,ligne,Voies intercommunales
+416,30.0,21.0,30.0,33.0,Chemins vicinaux et pistes,8319.0,ligne,Chemins vicinaux et pistes
+417,30.0,21.0,30.0,34.0,Ponts,8390.0,ligne,Ponts
+418,30.0,21.0,30.0,35.0,Viaducs,8390.0,ligne,Viaducs
+419,30.0,22.0,10.0,11.0,Adduction d'eau potable,8321.0,ligne,Adduction d'eau potable
+420,30.0,22.0,10.0,12.0,Aménagement des points d'eau publiques,8321.0,ligne,Aménagement des points d'eau publiques
+421,30.0,22.0,10.0,13.0,"Aménagement de khettaras, séguias et canaux",8324.0,ligne,"Aménagement de khettaras, séguias et canaux"
+422,30.0,22.0,10.0,14.0,Stations de relevage et de pompage,8321.0,ligne,Stations de relevage et de pompage
+423,30.0,22.0,10.0,15.0,Forage de puits,8321.0,ligne,Forage de puits
+424,30.0,22.0,20.0,21.0,Salaires de la main d'oeuvre ouvrière,1000.0,ligne,Salaires de la main d'oeuvre ouvrière
+425,30.0,22.0,30.0,31.0,Points d'eau publics,8329.0,ligne,Points d'eau publics
+426,30.0,22.0,30.0,32.0,"Khettaras, séguias et canaux d'irriguation",8329.0,ligne,"Khettaras, séguias et canaux d'irriguation"
+427,30.0,22.0,30.0,33.0,Stations de relevage et de pompage,8329.0,ligne,Stations de relevage et de pompage
+428,30.0,22.0,30.0,34.0,Puits,8329.0,ligne,Puits
+429,30.0,22.0,30.0,35.0,Barrages collinaires,8332.0,ligne,Barrages collinaires
+430,30.0,23.0,10.0,11.0,Installation de poteaux et cablages,8322.0,ligne,Installation de poteaux et cablages
+431,30.0,23.0,10.0,12.0,Construction de postes de transformation et de distribution,8322.0,ligne,Construction de postes de transformation et de dis
+432,30.0,23.0,10.0,13.0,Achat de plaques d'énergie solaire,8490.0,ligne,Achat de plaques d'énergie solaire
+433,30.0,23.0,20.0,21.0,Poteaux et cablages,8329.0,ligne,Poteaux et cablages
+434,30.0,23.0,20.0,22.0,Postes de transformation et de distribution,8329.0,ligne,Postes de transformation et de distribution
+435,30.0,24.0,10.0,11.0,Canalisation,8325.0,ligne,Canalisation
+436,30.0,24.0,10.0,12.0,Station de refoulement,8325.0,ligne,Station de refoulement
+437,30.0,24.0,10.0,13.0,Station d'épuration,8325.0,ligne,Station d'épuration
+438,30.0,24.0,20.0,21.0,Réseau de canalisation,8329.0,ligne,Réseau de canalisation
+439,30.0,24.0,20.0,22.0,Stations de refoulement,8329.0,ligne,Stations de refoulement
+440,30.0,24.0,20.0,23.0,Stations d'épuration,8329.0,ligne,Stations d'épuration
+441,40.0,10.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+442,40.0,10.0,10.0,12.0,Bâtiments,8130.0,ligne,Bâtiments
+443,40.0,10.0,10.0,13.0,Matériel technique,8410.0,ligne,Matériel technique
+444,40.0,10.0,10.0,14.0,Plants et arbres,8400.0,ligne,Plants et arbres
+445,40.0,10.0,10.0,17.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+446,40.0,10.0,20.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+447,40.0,10.0,20.0,22.0,Centres de vulgarisation,8230.0,ligne,Centres de vulgarisation
+448,40.0,10.0,20.0,23.0,Clôture des réserves de chasses,8230.0,ligne,Clôture des réserves de chasses
+449,40.0,10.0,20.0,24.0,Serres,8230.0,ligne,Serres
+450,40.0,10.0,20.0,25.0,Droits et taxes liés à la construction,2400.0,ligne,Droits et taxes liés à la construction
+451,40.0,10.0,30.0,11.0,Terrains,8360.0,ligne,Terrains
+452,40.0,10.0,30.0,12.0,Bâtiments,8260.0,ligne,Bâtiments
+453,40.0,10.0,30.0,13.0,Matériel,8490.0,ligne,Matériel
+454,40.0,20.0,10.0,12.0,Matériel techniques,8410.0,ligne,Matériel techniques
+455,40.0,20.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+456,40.0,20.0,20.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+457,40.0,20.0,20.0,22.0,U.T.O.M,8230.0,ligne,U.T.O.M
+458,40.0,20.0,20.0,23.0,Usine de déssalement,8230.0,ligne,Usine de déssalement
+459,40.0,20.0,20.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+460,40.0,20.0,30.0,31.0,Participation au capital de la société,9150.0,ligne,Participation au capital de la société
+461,40.0,20.0,30.0,32.0,Participation au capital de la société,9150.0,ligne,Participation au capital de la société
+462,40.0,30.0,10.0,11.0,Terrains,8110.0,ligne,Terrains
+463,40.0,30.0,10.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+464,40.0,30.0,10.0,13.0,Droits et taxes liés aux acquisitions,2400.0,ligne,Droits et taxes liés aux acquisitions
+465,40.0,30.0,20.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+466,40.0,30.0,20.0,22.0,Abattoirs,8230.0,ligne,Abattoirs
+467,40.0,30.0,20.0,23.0,Marchés de gros et halls aux poissons,8230.0,ligne,Marchés de gros et halls aux poissons
+468,40.0,30.0,20.0,24.0,Aires à grains,8250.0,ligne,Aires à grains
+469,40.0,30.0,20.0,25.0,Souks hebdomadaires et parcs à bestiaux,8250.0,ligne,Souks hebdomadaires et parcs à bestiaux
+470,40.0,30.0,20.0,26.0,Marchés couverts,8250.0,ligne,Marchés couverts
+471,40.0,30.0,20.0,27.0,Centres commerciaux,8250.0,ligne,Centres commerciaux
+472,40.0,30.0,30.0,31.0,Terrains,8110.0,ligne,Terrains
+473,40.0,30.0,30.0,32.0,Abattoirs,8262.0,ligne,Abattoirs
+474,40.0,30.0,30.0,33.0,Marchés de gros et halls aux poissons,8262.0,ligne,Marchés de gros et halls aux poissons
+475,40.0,30.0,30.0,34.0,Aires à grains,8262.0,ligne,Aires à grains
+476,40.0,30.0,30.0,35.0,Souks hebdomadaires,8262.0,ligne,Souks hebdomadaires
+477,40.0,30.0,30.0,36.0,Marchés couverts,8262.0,ligne,Marchés couverts
+478,40.0,30.0,30.0,37.0,Centres commerciaux,8262.0,ligne,Centres commerciaux
+479,50.0,20.0,10.0,11.0,Subvention au budget annexe de,7300.0,ligne,Subvention au budget annexe de
+480,50.0,20.0,10.0,12.0,Subvention au budget annexe de,7300.0,ligne,Subvention au budget annexe de
+481,50.0,30.0,30.0,31.0,Versement au PAGER,7610.0,ligne,Versement au PAGER
+482,50.0,30.0,30.0,32.0,Versement au PERG,7610.0,ligne,Versement au PERG
+483,60.0,10.0,10.0,12.0,Budget annexe de,7300.0,ligne,Budget annexe de
+484,60.0,10.0,10.0,13.0,Budget annexe de,7300.0,ligne,Budget annexe de
+485,60.0,10.0,20.0,21.0,Compte spécial,7400.0,ligne,Compte spécial
+486,60.0,10.0,20.0,22.0,Compte spécial,7400.0,ligne,Compte spécial
+487,60.0,10.0,30.0,31.0,Résorption des déficits de la première partie,9190.0,ligne,Résorption des déficits de la première partie
+488,60.0,10.0,30.0,32.0,couverture des crédits de fonctionnement reportés,9190.0,ligne,couverture des crédits de fonctionnement reportés
+489,50.0,10.0,30.0,31.0,Frais d assurances de regisseur en recettes,,ligne,Frais d assurances de regisseur en recettes
+490,10.0,50.0,10.0,13.0,IntÃ©rÃªts de l'emprunt nducontractÃ©,9110.0,ligne,IntÃ©rÃªts de l'emprunt nducontractÃ©
+491,50.0,40.0,60.0,61.0,Versement à Dar Attalb et Attaliba,5620.0,ligne,Versement à Dar Attalb et Attaliba
+492,50.0,40.0,60.0,63.0,Versement à l'Union Sportive Al Fath pour l'organisation de demi,5123.0,ligne,Versement à l'Union Sportive Al Fath pour l'organi
+493,10.0,10.0,10.0,11.0,Indémnités au président et aux conseillers y ayant droit,1290.0,ligne,Indémnités au président et aux conseillers y ayant
+494,10.0,10.0,20.0,24.0,"Frais d'hebergement, de restauration et de réception",4700.0,ligne,"Frais d'hebergement, de restauration et de récepti"
+495,10.0,10.0,30.0,31.0,Cotisation à,5910.0,ligne,Cotisation à
+496,10.0,10.0,30.0,32.0,Cotisation à,5910.0,ligne,Cotisation à
+497,10.0,10.0,30.0,33.0,Cotisation à,5910.0,ligne,Cotisation à
+498,10.0,10.0,40.0,45.0,Achat d'objets d'art ou cadeaux remis en prix,3990.0,ligne,Achat d'objets d'art ou cadeaux remis en prix
+499,10.0,20.0,10.0,12.0,Salaires et indemnités du personnel temporaire,1120.0,ligne,Salaires et indemnités du personnel temporaire
+500,10.0,20.0,10.0,13.0,Salaires des contractuels,1140.0,ligne,Salaires des contractuels
+501,10.0,20.0,20.0,23.0,Indémnités d'usure d'effet,1210.0,ligne,Indémnités d'usure d'effet
+502,10.0,20.0,20.0,26.0,Indemnités de responsabilités,1210.0,ligne,Indemnités de responsabilités
+503,10.0,20.0,20.0,27.0,Indemnités pour organisations des concours et examens,1210.0,ligne,Indemnités pour organisations des concours et exam
+504,10.0,20.0,30.0,35.0,Assurance des fonctionnaires et agents,4930.0,ligne,Assurance des fonctionnaires et agents
+505,10.0,30.0,60.0,63.0,Achat de produits plastiques,3640.0,ligne,Achat de produits plastiques
+506,10.0,30.0,80.0,82.0,HONORAIRES,4520.0,ligne,HONORAIRES
+507,10.0,30.0,80.0,83.0,Frais d'établissement des états de paie par d'autres organismes,4510.0,ligne,Frais d'établissement des états de paie par d'autr
+508,10.0,30.0,80.0,84.0,Frais d'études techniques et d'analyses,4550.0,ligne,Frais d'études techniques et d'analyses
+509,10.0,30.0,80.0,85.0,Consultations juridiques,4550.0,ligne,Consultations juridiques
+510,10.0,30.0,80.0,86.0,Consultations juridiques,4550.0,ligne,Consultations juridiques
+511,10.0,50.0,10.0,11.0,Intérêts de l'emprunt n contracté auprès du,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du
+512,10.0,50.0,10.0,12.0,Intérêts de l'emprunt n contracté auprès du,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du
+513,10.0,50.0,10.0,13.0,Intérêts de l'emprunt n contracté auprès du,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du
+514,10.0,50.0,10.0,14.0,Intérêts de l'emprunt n contracté auprès du FEC,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du FEC
+515,10.0,50.0,10.0,15.0,Intérêts de l'emprunt n contracté auprès du,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du
+516,10.0,50.0,10.0,16.0,Intérêts de l'emprunt n contracté auprès du FEC,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du FEC
+517,10.0,50.0,10.0,17.0,Intérêts de l'emprunt n contracté auprès du FEC,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du FEC
+518,10.0,50.0,10.0,18.0,Intérêts de l'emprunt n contracté auprès du FEC,6110.0,ligne,Intérêts de l'emprunt n contracté auprès du FEC
+519,10.0,50.0,20.0,21.0,Intérêts de retard,6110.0,ligne,Intérêts de retard
+520,20.0,10.0,10.0,10.0,Assistance aux associations et institutions locales,,ligne,Assistance aux associations et institutions locale
+521,20.0,10.0,10.0,13.0,Aides et soutien aux associations,5710.0,ligne,Aides et soutien aux associations
+522,20.0,10.0,20.0,21.0,Frais de transport des malades vers les centres hospitaliers,5890.0,ligne,Frais de transport des malades vers les centres ho
+523,20.0,10.0,20.0,24.0,Frais d'hospitalisation des indigents,5890.0,ligne,Frais d'hospitalisation des indigents
+524,20.0,10.0,20.0,25.0,Frais de transport de morts et d'inhumation,5890.0,ligne,Frais de transport de morts et d'inhumation
+525,20.0,10.0,30.0,31.0,Frais de fonctionnement des foyers socioculturels de femme,1540.0,ligne,Frais de fonctionnement des foyers socioculturels 
+526,20.0,10.0,30.0,32.0,Frais de fonctionnement des foyers socioculturels de de l'enfance,1540.0,ligne,Frais de fonctionnement des foyers socioculturels 
+527,20.0,10.0,30.0,33.0,Frais de fonctionnement des garderies d'enfants,1540.0,ligne,Frais de fonctionnement des garderies d'enfants
+528,20.0,10.0,30.0,34.0,Frais de circoncision,5890.0,ligne,Frais de circoncision
+529,20.0,10.0,30.0,35.0,Frais de transport des enfants vers les colonies de vacances,5890.0,ligne,Frais de transport des enfants vers les colonies d
+530,20.0,30.0,10.0,11.0,Achat de produits pharmaceutiques pour les B.M.H. et les centres,,ligne,Achat de produits pharmaceutiques pour les B.M.H. 
+531,20.0,30.0,10.0,12.0,"Produits d'hygiène pour les B.M.H., centres hospitaliers et",3610.0,ligne,"Produits d'hygiène pour les B.M.H., centres hospit"
+532,20.0,30.0,10.0,14.0,Achat de pecticides et insecticides,3600.0,ligne,Achat de pecticides et insecticides
+533,20.0,30.0,10.0,15.0,Achat de petit matériel pour les B.M.H,3640.0,ligne,Achat de petit matériel pour les B.M.H
+534,20.0,70.0,10.0,11.0,Frais de formation continue pour les élus,4540.0,ligne,Frais de formation continue pour les élus
+535,20.0,70.0,10.0,12.0,Frais de formation continue pour le personnel de la commune,4540.0,ligne,Frais de formation continue pour le personnel de l
+536,20.0,70.0,10.0,13.0,Indemnités d'encadrement et de renforcement des capacités,4540.0,ligne,Indemnités d'encadrement et de renforcement des ca
+537,20.0,80.0,50.0,53.0,Entretien de monuments historiques,4111.0,ligne,Entretien de monuments historiques
+538,20.0,80.0,60.0,61.0,Fournitures pour ateliers,3990.0,ligne,Fournitures pour ateliers
+539,20.0,80.0,60.0,62.0,Entretien de material courant,4130.0,ligne,Entretien de material courant
+540,20.0,80.0,60.0,63.0,Entretien courant de batîments,4110.0,ligne,Entretien courant de batîments
+541,20.0,80.0,80.0,81.0,SUBVENTIONS AUX ASSOCIATIONS CULTURELLES,,ligne,SUBVENTIONS AUX ASSOCIATIONS CULTURELLES
+542,20.0,90.0,10.0,11.0,Frais de cérémonies,4800.0,ligne,Frais de cérémonies
+543,30.0,10.0,10.0,15.0,Achat des plaques de numérotation des immeubles,3920.0,ligne,Achat des plaques de numérotation des immeubles
+544,30.0,10.0,20.0,24.0,Entretien d'égouts,4290.0,ligne,Entretien d'égouts
+545,40.0,10.0,10.0,11.0,Participation aux frais de fonctionnement des centres de vulgarisation,5100.0,ligne,Participation aux frais de fonctionnement des cent
+546,40.0,20.0,10.0,12.0,Subventions aux coopératives,7700.0,ligne,Subventions aux coopératives
+547,50.0,10.0,20.0,21.0,Exécution des jugements et des convention de transaction,5840.0,ligne,Exécution des jugements et des convention de trans
+548,50.0,10.0,20.0,22.0,Dommages et intérêts au profit des tiers,5890.0,ligne,Dommages et intérêts au profit des tiers
+549,50.0,10.0,20.0,23.0,Frais de procédures et d'instances,,ligne,Frais de procédures et d'instances
+550,50.0,10.0,30.0,31.0,Assurances regisseurs,,ligne,Assurances regisseurs
+551,50.0,20.0,10.0,11.0,Personnel,1190.0,ligne,Personnel
+552,50.0,20.0,20.0,21.0,Matériel et frais de fonctionnement,3590.0,ligne,Matériel et frais de fonctionnement
+553,50.0,40.0,20.0,21.0,Versement au C.D.D de,5400.0,ligne,Versement au C.D.D de
+554,50.0,40.0,20.0,22.0,Versement au C.D.D de,5400.0,ligne,Versement au C.D.D de
+555,50.0,40.0,20.0,23.0,Versement au C.D.D de,5400.0,ligne,Versement au C.D.D de
+556,50.0,40.0,30.0,31.0,Versement au C.A.S de.ildh,5400.0,ligne,Versement au C.A.S de.ildh
+557,50.0,40.0,40.0,41.0,versements aux ct,5610.0,ligne,versements aux ct
+558,50.0,40.0,50.0,51.0,Versement,5610.0,ligne,Versement
+559,50.0,40.0,50.0,52.0,Versement,5610.0,ligne,Versement
+560,50.0,40.0,50.0,53.0,Versement,5610.0,ligne,Versement
+561,50.0,40.0,60.0,61.0,Versement au fond ramed,5123.0,ligne,Versement au fond ramed
+562,50.0,40.0,60.0,62.0,versement à la société nationale du transport et de la logistique,5113.0,ligne,versement à la société nationale du transport et d
+563,50.0,40.0,60.0,63.0,Versement aux entrprises priveesen contre partie des services rendus,5111.0,ligne,Versement aux entrprises priveesen contre partie d
+564,50.0,40.0,60.0,64.0,versement aux établissements de formation,5530.0,ligne,versement aux établissements de formation
+565,50.0,40.0,60.0,65.0,"versement au service d'acceuil, d'assistance et d'évaluation des",5510.0,ligne,"versement au service d'acceuil, d'assistance et d'"
+566,50.0,40.0,60.0,66.0,versement aux universités,5510.0,ligne,versement aux universités
+567,50.0,40.0,60.0,67.0,versement aux laboratoires publics et services relevant du ministère,5510.0,ligne,versement aux laboratoires publics et services rel
+568,60.0,10.0,10.0,10.0,Versement de l'excédent à la 2ème partie,500.0,ligne,Versement de l'excédent à la 2ème partie
+569,10.0,10.0,40.0,11.0,"Véhicules, motocycles, cycles et engins",8510.0,ligne,"Véhicules, motocycles, cycles et engins"
+570,10.0,10.0,40.0,12.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+571,10.0,10.0,40.0,13.0,Matériel technique,8410.0,ligne,Matériel technique
+572,10.0,10.0,40.0,14.0,Matériel informatique,8450.0,ligne,Matériel informatique
+573,10.0,10.0,40.0,15.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+574,10.0,10.0,40.0,16.0,Matériel des fêtes et de pavoisement,8790.0,ligne,Matériel des fêtes et de pavoisement
+575,10.0,10.0,40.0,17.0,Matériel de signalisation,8790.0,ligne,Matériel de signalisation
+576,10.0,10.0,50.0,11.0,"Véhicules, motocycles, cycles et engins",4131.0,ligne,"Véhicules, motocycles, cycles et engins"
+577,10.0,10.0,50.0,12.0,Matériel technique,4132.0,ligne,Matériel technique
+578,10.0,10.0,50.0,13.0,Matériel informatique,4133.0,ligne,Matériel informatique
+579,10.0,10.0,50.0,14.0,Matériel électrique et électronique,4190.0,ligne,Matériel électrique et électronique
+580,10.0,30.0,10.0,16.0,Amortissement en capital de l'emprunt n contracté auprès,,ligne,Amortissement en capital de l'emprunt n contracté 
+581,10.0,30.0,10.0,17.0,Amortissement en capital de l'emprunt n contracté auprès,,ligne,Amortissement en capital de l'emprunt n contracté 
+582,20.0,10.0,10.0,21.0,Etudes et assistance techniques,8800.0,ligne,Etudes et assistance techniques
+583,20.0,10.0,10.0,22.0,Bâtiments,8250.0,ligne,Bâtiments
+584,20.0,10.0,10.0,23.0,Droits et taxes liés à l'acquisition,2400.0,ligne,Droits et taxes liés à l'acquisition
+585,20.0,10.0,10.0,31.0,Terrains,8390.0,ligne,Terrains
+586,20.0,10.0,10.0,32.0,Bâtiments,8260.0,ligne,Bâtiments
+587,20.0,10.0,20.0,11.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+588,20.0,10.0,20.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+589,20.0,10.0,20.0,13.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+590,20.0,20.0,10.0,21.0,Etudes et assistance technique,4520.0,ligne,Etudes et assistance technique
+591,20.0,20.0,10.0,22.0,Stades et complexes sportifs,8250.0,ligne,Stades et complexes sportifs
+592,20.0,20.0,10.0,23.0,Piscines,8250.0,ligne,Piscines
+593,20.0,20.0,10.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+594,20.0,20.0,10.0,31.0,Terrains de sport et de complexes sportifs,8260.0,ligne,Terrains de sport et de complexes sportifs
+595,20.0,20.0,10.0,32.0,Piscines,8250.0,ligne,Piscines
+596,20.0,20.0,20.0,11.0,Matériel et mobilier de bureau,8710.0,ligne,Matériel et mobilier de bureau
+597,20.0,20.0,20.0,12.0,Matériel électrique et électronique,8440.0,ligne,Matériel électrique et électronique
+598,20.0,20.0,20.0,13.0,Matériel de sport,8790.0,ligne,Matériel de sport
+599,20.0,30.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+600,20.0,30.0,10.0,22.0,Construction de bâtiments,8250.0,ligne,Construction de bâtiments
+601,20.0,30.0,10.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+602,20.0,30.0,10.0,31.0,Terrains,8390.0,ligne,Terrains
+603,20.0,30.0,10.0,32.0,Bâtiments,8260.0,ligne,Bâtiments
+604,20.0,30.0,20.0,11.0,"Véhicules, motocycles, cycles et engins",8510.0,ligne,"Véhicules, motocycles, cycles et engins"
+605,20.0,30.0,20.0,12.0,Matériel et mobilier de bureau et des salles de soins,8710.0,ligne,Matériel et mobilier de bureau et des salles de so
+606,20.0,30.0,20.0,13.0,Matériel technique,8410.0,ligne,Matériel technique
+607,20.0,30.0,20.0,23.0,Matériel technique,8410.0,ligne,Matériel technique
+608,20.0,40.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+609,20.0,40.0,10.0,22.0,Constructions d'établissements d'enseignement,8250.0,ligne,Constructions d'établissements d'enseignement
+610,20.0,40.0,10.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+611,20.0,40.0,10.0,31.0,Terrains,8360.0,ligne,Terrains
+612,20.0,40.0,10.0,32.0,Bâtiments,8360.0,ligne,Bâtiments
+613,20.0,40.0,20.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+614,20.0,40.0,20.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+615,20.0,40.0,20.0,13.0,Matériel didactique,8490.0,ligne,Matériel didactique
+616,20.0,50.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+617,20.0,50.0,10.0,22.0,Constructions d'établissements d'enseignement,8250.0,ligne,Constructions d'établissements d'enseignement
+618,20.0,50.0,10.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+619,20.0,50.0,10.0,31.0,Terrains,8110.0,ligne,Terrains
+620,20.0,50.0,10.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+621,20.0,50.0,20.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+622,20.0,50.0,20.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+623,20.0,50.0,20.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+624,20.0,50.0,20.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+625,20.0,50.0,20.0,15.0,Matériel de sport,8490.0,ligne,Matériel de sport
+626,20.0,50.0,20.0,23.0,Matériel informatique,8450.0,ligne,Matériel informatique
+627,20.0,60.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+628,20.0,60.0,10.0,22.0,Travaux,2400.0,ligne,Travaux
+629,20.0,60.0,10.0,31.0,Terrains,8110.0,ligne,Terrains
+630,20.0,60.0,10.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+631,20.0,60.0,20.0,11.0,Matériel et mobilier de bureau et de classes,8710.0,ligne,Matériel et mobilier de bureau et de classes
+632,20.0,60.0,20.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+633,20.0,60.0,20.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+634,20.0,60.0,20.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+635,20.0,70.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+636,20.0,70.0,10.0,22.0,Bâtiments,8130.0,ligne,Bâtiments
+637,20.0,70.0,10.0,23.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+638,20.0,70.0,10.0,31.0,Terrains,8110.0,ligne,Terrains
+639,20.0,70.0,10.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+640,20.0,70.0,20.0,11.0,Matériel et mobilier de bureau et des salles de lecture,8710.0,ligne,Matériel et mobilier de bureau et des salles de le
+641,20.0,70.0,20.0,12.0,Matériel technique,8410.0,ligne,Matériel technique
+642,20.0,70.0,20.0,13.0,Matériel informatique,8450.0,ligne,Matériel informatique
+643,20.0,70.0,20.0,14.0,Matériel didactique,8490.0,ligne,Matériel didactique
+644,20.0,70.0,20.0,21.0,Matériel et mobilier de bureau et des salles de lecture,8710.0,ligne,Matériel et mobilier de bureau et des salles de le
+645,20.0,70.0,20.0,22.0,Matériel technique,8410.0,ligne,Matériel technique
+646,20.0,70.0,20.0,23.0,Matériel informatique,8450.0,ligne,Matériel informatique
+647,20.0,70.0,20.0,24.0,Matériel didactique,8490.0,ligne,Matériel didactique
+648,20.0,80.0,10.0,21.0,Etudes et assistance technique,8800.0,ligne,Etudes et assistance technique
+649,20.0,80.0,10.0,22.0,Bâtiments,8250.0,ligne,Bâtiments
+650,20.0,80.0,10.0,23.0,Murs d'enceinte et dépenses au profit des cimetières,8250.0,ligne,Murs d'enceinte et dépenses au profit des cimetièr
+651,20.0,80.0,10.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+652,20.0,80.0,10.0,31.0,Terrains,8110.0,ligne,Terrains
+653,20.0,80.0,10.0,32.0,Bâtiments,8130.0,ligne,Bâtiments
+654,20.0,80.0,20.0,11.0,Matériel et mobilier,8710.0,ligne,Matériel et mobilier
+655,20.0,80.0,20.0,12.0,Matériel électronique,8440.0,ligne,Matériel électronique
+656,30.0,10.0,10.0,21.0,Aménagements,8360.0,ligne,Aménagements
+657,30.0,10.0,10.0,22.0,Alignement des avennues,8390.0,ligne,Alignement des avennues
+658,30.0,10.0,10.0,23.0,Plantation ornementale des voies publiques,8740.0,ligne,Plantation ornementale des voies publiques
+659,30.0,10.0,20.0,11.0,Gros travaux d'entretien,8790.0,ligne,Gros travaux d'entretien
+660,30.0,10.0,20.0,12.0,Gros travaux des sites récréatifs,8250.0,ligne,Gros travaux des sites récréatifs
+661,30.0,20.0,10.0,21.0,Ponts,8390.0,ligne,Ponts
+662,30.0,20.0,10.0,22.0,Viaducs,8390.0,ligne,Viaducs
+663,30.0,20.0,10.0,31.0,Voies urbaines,8319.0,ligne,Voies urbaines
+664,30.0,20.0,10.0,32.0,Voies intercommunales,8319.0,ligne,Voies intercommunales
+665,30.0,20.0,10.0,33.0,Chemins vicinaux et pistes,8319.0,ligne,Chemins vicinaux et pistes
+666,30.0,20.0,10.0,34.0,Ponts,8390.0,ligne,Ponts
+667,30.0,20.0,10.0,35.0,Viaducs,8390.0,ligne,Viaducs
+668,30.0,20.0,20.0,11.0,Adduction d'eau potable,8321.0,ligne,Adduction d'eau potable
+669,30.0,20.0,20.0,12.0,Aménagement des points d'eau publiques,8321.0,ligne,Aménagement des points d'eau publiques
+670,30.0,20.0,20.0,13.0,"Aménagement de khettaras, séguias et canaux",8324.0,ligne,"Aménagement de khettaras, séguias et canaux"
+671,30.0,20.0,20.0,14.0,Stations de relevage et de pompage,8321.0,ligne,Stations de relevage et de pompage
+672,30.0,20.0,20.0,15.0,Forage de puits,8321.0,ligne,Forage de puits
+673,30.0,20.0,20.0,31.0,Points d'eau publics,8329.0,ligne,Points d'eau publics
+674,30.0,20.0,20.0,32.0,"Khettaras, séguias et canaux d'irriguation",8329.0,ligne,"Khettaras, séguias et canaux d'irriguation"
+675,30.0,20.0,20.0,33.0,Stations de relevage et de pompage,8329.0,ligne,Stations de relevage et de pompage
+676,30.0,20.0,20.0,34.0,Puits,8329.0,ligne,Puits
+677,30.0,20.0,20.0,35.0,Barrages collinaires,8332.0,ligne,Barrages collinaires
+678,30.0,20.0,30.0,11.0,Installation de poteaux et cablages,8322.0,ligne,Installation de poteaux et cablages
+679,30.0,20.0,30.0,12.0,Construction de postes de transformation et de distribution,8322.0,ligne,Construction de postes de transformation et de dis
+680,30.0,20.0,30.0,13.0,Achat de plaques d'énergie solaire,8490.0,ligne,Achat de plaques d'énergie solaire
+681,30.0,20.0,30.0,21.0,Poteaux et cablages,8329.0,ligne,Poteaux et cablages
+682,30.0,20.0,30.0,22.0,Postes de transformation et de distribution,8329.0,ligne,Postes de transformation et de distribution
+683,30.0,20.0,40.0,11.0,Canalisation,8325.0,ligne,Canalisation
+684,30.0,20.0,40.0,12.0,Station de refoulement,8325.0,ligne,Station de refoulement
+685,30.0,20.0,40.0,13.0,Station d'épuration,8325.0,ligne,Station d'épuration
+686,30.0,20.0,40.0,21.0,Réseau de canalisation,8329.0,ligne,Réseau de canalisation
+687,30.0,20.0,40.0,22.0,Stations de refoulement,8329.0,ligne,Stations de refoulement
+688,30.0,20.0,40.0,23.0,Stations d'épuration,8329.0,ligne,Stations d'épuration
+689,40.0,10.0,10.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+690,40.0,10.0,10.0,22.0,Centres de vulgarisation,8230.0,ligne,Centres de vulgarisation
+691,40.0,10.0,10.0,23.0,Clôture des réserves de chasses,8230.0,ligne,Clôture des réserves de chasses
+692,40.0,10.0,10.0,24.0,Serres,8230.0,ligne,Serres
+693,40.0,10.0,10.0,25.0,Droits et taxes liés à la construction,2400.0,ligne,Droits et taxes liés à la construction
+694,40.0,10.0,10.0,31.0,Terrains,8360.0,ligne,Terrains
+695,40.0,10.0,10.0,32.0,Bâtiments,8260.0,ligne,Bâtiments
+696,40.0,10.0,10.0,33.0,Matériel,8490.0,ligne,Matériel
+697,40.0,20.0,10.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+698,40.0,20.0,10.0,22.0,U.T.O.M,8230.0,ligne,U.T.O.M
+699,40.0,20.0,10.0,23.0,Usine de déssalement,8230.0,ligne,Usine de déssalement
+700,40.0,20.0,10.0,24.0,Droits et taxes liés aux constructions,2400.0,ligne,Droits et taxes liés aux constructions
+701,40.0,20.0,10.0,31.0,Participation au capital de la société,9150.0,ligne,Participation au capital de la société
+702,40.0,20.0,10.0,32.0,Participation au capital de la société,9150.0,ligne,Participation au capital de la société
+703,40.0,30.0,10.0,21.0,Etudes et assistances techniques,8800.0,ligne,Etudes et assistances techniques
+704,40.0,30.0,10.0,22.0,Abattoirs,8230.0,ligne,Abattoirs
+705,40.0,30.0,10.0,23.0,Marchés de gros et halls aux poissons,8230.0,ligne,Marchés de gros et halls aux poissons
+706,40.0,30.0,10.0,24.0,Aires à grains,8250.0,ligne,Aires à grains
+707,40.0,30.0,10.0,25.0,Souks hebdomadaires et parcs à bestiaux,8250.0,ligne,Souks hebdomadaires et parcs à bestiaux
+708,40.0,30.0,10.0,26.0,Marchés couverts,8250.0,ligne,Marchés couverts
+709,40.0,30.0,10.0,27.0,Centres commerciaux,8250.0,ligne,Centres commerciaux
+710,40.0,30.0,10.0,31.0,Terrains,8110.0,ligne,Terrains
+711,40.0,30.0,10.0,32.0,Abattoirs,8262.0,ligne,Abattoirs
+712,40.0,30.0,10.0,33.0,Marchés de gros et halls aux poissons,8262.0,ligne,Marchés de gros et halls aux poissons
+713,40.0,30.0,10.0,34.0,Aires à grains,8262.0,ligne,Aires à grains
+714,40.0,30.0,10.0,35.0,Souks hebdomadaires,8262.0,ligne,Souks hebdomadaires
+715,40.0,30.0,10.0,36.0,Marchés couverts,8262.0,ligne,Marchés couverts
+716,40.0,30.0,10.0,37.0,Centres commerciaux,8262.0,ligne,Centres commerciaux
+717,50.0,30.0,30.0,31.0,Versements au PAGER,7610.0,ligne,Versements au PAGER
+718,60.0,10.0,10.0,11.0,Résorption des déficits de la première partie,,ligne,Résorption des déficits de la première partie
+719,60.0,10.0,10.0,12.0,Couverture des crédits de fonctionnement reportés,,ligne,Couverture des crédits de fonctionnement reportés
+720,60.0,10.0,10.0,21.0,Budget annexe de,7300.0,ligne,Budget annexe de
+721,60.0,10.0,10.0,22.0,Budget annexe de,7300.0,ligne,Budget annexe de
+722,60.0,10.0,10.0,31.0,Compte spécial,7400.0,ligne,Compte spécial
+723,60.0,10.0,10.0,32.0,Compte spécial,7400.0,ligne,Compte spécial
+724,10.0,,,,DOMAINE D'ADMINISTRATION GENERALE,,chapitre,DOMAINE D'ADMINISTRATION GENERALE
+725,10.0,10.0,10.0,,.Etat civil et légalisation,,article,.Etat civil et légalisation
+726,10.0,10.0,10.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+727,10.0,10.0,10.0,11.0,Taxe de légalisation des signatures et de certification des documents,,ligne,Taxe de légalisation des signatures et de certific
+728,10.0,10.0,10.0,12.0,.Droit d'état civil,,ligne,.Droit d'état civil
+729,10.0,20.0,20.0,,Autorisations administratives,,article,Autorisations administratives
+730,10.0,20.0,20.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+731,10.0,20.0,20.0,31.0,.Numérotation d'immeubles,,ligne,.Numérotation d'immeubles
+732,10.0,20.0,20.0,32.0,.Enregistrement de la vente du bétail,,ligne,.Enregistrement de la vente du bétail
+733,10.0,20.0,20.0,33.0,.Frais d'enquête de commodo et d'incommodo,,ligne,.Frais d'enquête de commodo et d'incommodo
+734,10.0,30.0,30.0,,.Produits des ventes,,article,.Produits des ventes
+735,10.0,30.0,30.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+736,10.0,30.0,30.0,21.0,Produit des ventes d'objet mobiliers ou matériaux hors service,,ligne,Produit des ventes d'objet mobiliers ou matériaux 
+737,10.0,30.0,30.0,22.0,".Produit des ventes de fruits, plantes, fleurs et bois",,ligne,".Produit des ventes de fruits, plantes, fleurs et "
+738,10.0,30.0,30.0,23.0,"Produit des ventes de plans, d'imprimés et de dossiers de concours",,ligne,"Produit des ventes de plans, d'imprimés et de doss"
+739,10.0,30.0,30.0,24.0,Produit des ventes des animaux et d'objets mis en fourrière non retirès dans les délais impartis,,ligne,Produit des ventes des animaux et d'objets mis en 
+740,10.0,40.0,40.0,,.Autres produits,,article,.Autres produits
+741,10.0,40.0,40.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+742,10.0,40.0,40.0,11.0,Produit des amendes fiscales et de transactions en matière de taxes,,ligne,Produit des amendes fiscales et de transactions en
+743,10.0,40.0,40.0,12.0,Pourcentage sur les ventes publiques effectuées par la collectivité,,ligne,Pourcentage sur les ventes publiques effectuées pa
+744,10.0,40.0,40.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+745,10.0,40.0,40.0,31.0,Ristourne sur les recettes réalisées pour le compte des tiers,,ligne,Ristourne sur les recettes réalisées pour le compt
+746,10.0,40.0,40.0,32.0,.Droits de fourrière,,ligne,.Droits de fourrière
+747,10.0,40.0,40.0,33.0,Remboursement des frais de transport par la grue,,ligne,Remboursement des frais de transport par la grue
+748,10.0,40.0,40.0,34.0,Produits des sabots,,ligne,Produits des sabots
+749,10.0,50.0,50.0,,Part dans le produit des impôts de l'Etat,,article,Part dans le produit des impôts de l'Etat
+750,10.0,50.0,50.0,10.0,Part dans le produit de la TVA,,ligne,Part dans le produit de la TVA
+751,20.0,,,,DOMAINE DES AFFAIRES SOCIALES,,chapitre,DOMAINE DES AFFAIRES SOCIALES
+752,20.0,10.0,10.0,,Hygiène et santé publiques,,article,Hygiène et santé publiques
+753,20.0,10.0,10.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+754,20.0,10.0,10.0,21.0,Concession des blocs sanitaires du marché de gros des fruits et légumes,,ligne,Concession des blocs sanitaires du marché de gros 
+755,20.0,10.0,10.0,22.0,.Concession du service de l'ambulance communale,,ligne,.Concession du service de l'ambulance communale
+756,20.0,10.0,10.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+757,20.0,10.0,10.0,31.0,Remboursement des frais de transport effectués par l'ambulance communale,,ligne,Remboursement des frais de transport effectués par
+758,20.0,10.0,10.0,32.0,Produit du service de vidange de fosses et curage d'égouts,,ligne,Produit du service de vidange de fosses et curage 
+759,20.0,10.0,10.0,33.0,Raccordement au réseau d'égouts,,ligne,Raccordement au réseau d'égouts
+760,20.0,10.0,10.0,34.0,Raccordement au réseau d'eau,,ligne,Raccordement au réseau d'eau
+761,20.0,10.0,10.0,35.0,Remboursement des frais de désinfection,,ligne,Remboursement des frais de désinfection
+762,20.0,10.0,10.0,36.0,Reversement à la commune pour travaux de salubrité et de sécurité par ses soins pour le compte des propriétaires défaillants,,ligne,Reversement à la commune pour travaux de salubrité
+763,20.0,10.0,10.0,37.0,Produit de la morgue,,ligne,Produit de la morgue
+764,20.0,20.0,20.0,,"Enseignement, Art et culture",,article,"Enseignement, Art et culture"
+765,20.0,20.0,20.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+766,20.0,20.0,20.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+767,20.0,20.0,20.0,31.0,Produit de l'école communale des beaux arts,,ligne,Produit de l'école communale des beaux arts
+768,20.0,20.0,20.0,32.0,Produit de la bibliothèque communale,,ligne,Produit de la bibliothèque communale
+769,20.0,20.0,20.0,33.0,Produit du conservatoire de musique,,ligne,Produit du conservatoire de musique
+770,20.0,20.0,20.0,34.0,Produit de la galerie d'expositon,,ligne,Produit de la galerie d'expositon
+771,20.0,30.0,30.0,,"Tourisme, loisir et détente",,article,"Tourisme, loisir et détente"
+772,20.0,30.0,30.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+773,4210.0,20.0,20.0,30.0,Taxe de séjour,,ligne,Taxe de séjour
+774,20.0,30.0,30.0,12.0,Taxe sur les spectacles,,ligne,Taxe sur les spectacles
+775,4220.0,20.0,20.0,30.0,Taxe sur les billets d'accès aux manifestations sportives aux piscines privées ouvertes au public,,ligne,Taxe sur les billets d'accès aux manifestations sp
+776,20.0,30.0,30.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+777,5221.0,20.0,20.0,30.0,Produit de l'exploitation des terrains de sport,,ligne,Produit de l'exploitation des terrains de sport
+778,5222.0,20.0,20.0,30.0,Produit de l'exploitation des piscines,,ligne,Produit de l'exploitation des piscines
+779,5223.0,20.0,20.0,30.0,Droits d'entrée aux musées communaux,,ligne,Droits d'entrée aux musées communaux
+780,20.0,30.0,30.0,24.0,Droits d'entrée aux théâtres communaux,,ligne,Droits d'entrée aux théâtres communaux
+781,20.0,30.0,30.0,25.0,Produit des campings et campings caravanings,,ligne,Produit des campings et campings caravanings
+782,20.0,30.0,30.0,26.0,Produit de l'exploitation des plages,,ligne,Produit de l'exploitation des plages
+783,20.0,30.0,30.0,27.0,Droits d'entrée aux jardins et pépinières,,ligne,Droits d'entrée aux jardins et pépinières
+784,30.0,,,,DOMAINE DES AFFAIRES TECHNIQUES,,chapitre,DOMAINE DES AFFAIRES TECHNIQUES
+785,30.0,10.0,10.0,,Habitat et urbanisme,,article,Habitat et urbanisme
+786,30.0,10.0,10.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+787,4110.0,30.0,30.0,10.0,Taxe urbaine,,ligne,Taxe urbaine
+788,4120.0,30.0,30.0,10.0,Taxe d'édilité afférente aux immeubles assujettis à la taxe urbaine,,ligne,Taxe d'édilité afférente aux immeubles assujettis 
+789,30.0,10.0,10.0,14.0,Taxe sur les terrains urbains non bâtis,,ligne,Taxe sur les terrains urbains non bâtis
+790,30.0,10.0,10.0,15.0,Taxe sur les opérations de construction,,ligne,Taxe sur les opérations de construction
+791,4150.0,30.0,30.0,10.0,Taxe sur les opérations de lotissement,,ligne,Taxe sur les opérations de lotissement
+792,30.0,10.0,10.0,17.0,Taxe sur les opérations de morcellement,,ligne,Taxe sur les opérations de morcellement
+793,30.0,10.0,10.0,18.0,Taxe d'habitation,,ligne,Taxe d'habitation
+794,30.0,10.0,10.0,19.0,Taxe sur les services communaux,,ligne,Taxe sur les services communaux
+795,30.0,10.0,10.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+796,5211.0,30.0,30.0,10.0,Redevances sur les saillies situées sur le domaine public communal,,ligne,Redevances sur les saillies situées sur le domaine
+797,5212.0,30.0,30.0,10.0,Redevance d'occupation temporaire du domaine public communal pour usage lié à la construction,,ligne,Redevance d'occupation temporaire du domaine publi
+798,30.0,10.0,10.0,23.0,Produit de location d'immeubles à usage d'habitation,,ligne,Produit de location d'immeubles à usage d'habitati
+799,30.0,10.0,10.0,24.0,.Produit de l'exploitation de bâtiments,,ligne,.Produit de l'exploitation de bâtiments
+800,30.0,10.0,10.0,25.0,.Autres produits des biens immobiliers,,ligne,.Autres produits des biens immobiliers
+801,30.0,20.0,20.0,,Protection de l'environnement,,article,Protection de l'environnement
+802,30.0,20.0,20.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+803,30.0,20.0,20.0,11.0,.Taxe sur la dégradation des chaussées,,ligne,.Taxe sur la dégradation des chaussées
+804,30.0,20.0,20.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+805,30.0,20.0,20.0,21.0,Concession du service des pompes funèbres,,ligne,Concession du service des pompes funèbres
+806,30.0,20.0,20.0,22.0,Concession du service de l'exploitation de l'usine de traitement des ordures ménagères,,ligne,Concession du service de l'exploitation de l'usine
+807,30.0,20.0,20.0,23.0,Concession du service de la décharge contrôlée,,ligne,Concession du service de la décharge contrôlée
+808,30.0,20.0,20.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+809,30.0,20.0,20.0,31.0,Produit de cimetière et inhumation,,ligne,Produit de cimetière et inhumation
+810,4710.0,30.0,30.0,20.0,"Taxe d'enlèvement des déchets des jardins, industriels et matériaux ou déblais abandonnés sur la voie publique",,ligne,"Taxe d'enlèvement des déchets des jardins, industr"
+811,30.0,20.0,20.0,33.0,Redevances gestion déchets ménagers et assimilés,,ligne,Redevances gestion déchets ménagers et assimilés
+812,30.0,20.0,20.0,34.0,Redevances gestion déchets non dangereux,,ligne,Redevances gestion déchets non dangereux
+813,30.0,20.0,20.0,35.0,Produits des pompes funèbres,,ligne,Produits des pompes funèbres
+814,40.0,,,,DOMAINE DES AFFAIRES ECONOMIQUES,,chapitre,DOMAINE DES AFFAIRES ECONOMIQUES
+815,40.0,10.0,10.0,,Commerce et industrie,,article,Commerce et industrie
+816,40.0,10.0,10.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+817,40.0,10.0,10.0,11.0,Taxe sur les débits de boissons,,ligne,Taxe sur les débits de boissons
+818,40.0,10.0,10.0,12.0,Taxe sur les fermetures tardives et ouvertures matinales,,ligne,Taxe sur les fermetures tardives et ouvertures mat
+819,40.0,10.0,10.0,13.0,Taxe sur les colporteurs vendant sur la voie publique,,ligne,Taxe sur les colporteurs vendant sur la voie publi
+820,40.0,10.0,10.0,14.0,Taxe sur les eaux minérales et de table,,ligne,Taxe sur les eaux minérales et de table
+821,40.0,10.0,10.0,15.0,Taxe sur l'extraction des produits de carrières,,ligne,Taxe sur l'extraction des produits de carrières
+822,40.0,10.0,10.0,16.0,Impôt des patentes,,ligne,Impôt des patentes
+823,40.0,10.0,10.0,17.0,Patente des marchés ruraux,,ligne,Patente des marchés ruraux
+824,40.0,10.0,10.0,18.0,Taxe principale d'abattage,,ligne,Taxe principale d'abattage
+825,40.0,10.0,10.0,19.0,Taxe de sacrification,,ligne,Taxe de sacrification
+826,40.0,10.0,10.0,23.0,.Surtaxe d'estampillage des tapis,,ligne,.Surtaxe d'estampillage des tapis
+827,40.0,10.0,10.0,24.0,Produits du casino,,ligne,Produits du casino
+828,40.0,10.0,10.0,25.0,Taxe Professionnelle,,ligne,Taxe Professionnelle
+829,40.0,10.0,10.0,30.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+830,40.0,10.0,10.0,31.0,Droits perçus sur les marchés et lieux de vente publics,,ligne,Droits perçus sur les marchés et lieux de vente pu
+831,40.0,10.0,10.0,32.0,Droits perçus aux marchés aux bestiaux,,ligne,Droits perçus aux marchés aux bestiaux
+832,40.0,10.0,10.0,33.0,Droits de stationnement et d'entrée aux souks hebdomadaires,,ligne,Droits de stationnement et d'entrée aux souks hebd
+833,40.0,10.0,10.0,34.0,Droits perçus sur d'autres lieux de vente publiques,,ligne,Droits perçus sur d'autres lieux de vente publique
+834,40.0,10.0,10.0,35.0,Produit de location et d'exploitation des biens relevant de la C.L,,ligne,Produit de location et d'exploitation des biens re
+835,40.0,10.0,10.0,36.0,Produit de location des locaux à usage commercial ou professionnel,,ligne,Produit de location des locaux à usage commercial 
+836,40.0,10.0,10.0,37.0,Produit d'affermage des souks communaux,,ligne,Produit d'affermage des souks communaux
+837,40.0,10.0,10.0,38.0,Produit des bains douches,,ligne,Produit des bains douches
+838,40.0,10.0,10.0,39.0,Produit de l'exploitation de terrains,,ligne,Produit de l'exploitation de terrains
+839,40.0,10.0,10.0,40.0,Produit du domaine forestier relevant du territoire communal,,ligne,Produit du domaine forestier relevant du territoir
+840,40.0,10.0,10.0,41.0,Produit de location d'autres biens,,ligne,Produit de location d'autres biens
+841,40.0,10.0,10.0,42.0,Concession des services communaux,,ligne,Concession des services communaux
+842,40.0,10.0,10.0,43.0,Concession pour distribution d'eau,,ligne,Concession pour distribution d'eau
+843,40.0,10.0,10.0,44.0,Concession pour distribution d'énergie,,ligne,Concession pour distribution d'énergie
+844,40.0,10.0,10.0,45.0,Concession d'exploitation des buvettes municipales,,ligne,Concession d'exploitation des buvettes municipales
+845,40.0,10.0,10.0,46.0,.Produits des autres concessions,,ligne,.Produits des autres concessions
+846,5213.0,40.0,40.0,10.0,"Redevance d'occupation temporaire du domaine public communal pour un usage commercial, industriel ou professionnel",,ligne,Redevance d'occupation temporaire du domaine publi
+847,40.0,10.0,10.0,48.0,"Redevance d'occupation temporaire du domaine public communal par des biens meubles et immeubles liés à l'exercice d'un commerce, d'une industrie",,ligne,Redevance d'occupation temporaire du domaine publi
+848,40.0,10.0,10.0,49.0,Produit de l'exploitation de terrains agricoles,,ligne,Produit de l'exploitation de terrains agricoles
+849,40.0,10.0,10.0,50.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+850,40.0,10.0,10.0,51.0,Droit d'équarrissage,,ligne,Droit d'équarrissage
+851,40.0,10.0,10.0,52.0,Taxe d'échaudage des porcs et des abats,,ligne,Taxe d'échaudage des porcs et des abats
+852,40.0,10.0,10.0,53.0,Fournitures d'armes et munitions,,ligne,Fournitures d'armes et munitions
+853,40.0,10.0,10.0,54.0,Taxe sur les visites vétérinaires à l'occasion des abattages exceptionnels,,ligne,Taxe sur les visites vétérinaires à l'occasion des
+854,40.0,10.0,10.0,55.0,Taxe d'utilisation de la triperie,,ligne,Taxe d'utilisation de la triperie
+855,40.0,10.0,10.0,56.0,Taxe frigorifique,,ligne,Taxe frigorifique
+856,40.0,10.0,10.0,57.0,Taxe de stabulation,,ligne,Taxe de stabulation
+857,40.0,10.0,10.0,58.0,Droit de criée,,ligne,Droit de criée
+858,40.0,10.0,10.0,59.0,"Redevances sur les recettes des mandataires du marché de gros, des fruits et légumes",,ligne,Redevances sur les recettes des mandataires du mar
+859,40.0,10.0,10.0,60.0,Redevances sur les recettes des mandataires des halles aux poissons,,ligne,Redevances sur les recettes des mandataires des ha
+860,40.0,10.0,10.0,61.0,Redevances sur les halles aux peaux et cuir,,ligne,Redevances sur les halles aux peaux et cuir
+861,40.0,10.0,10.0,62.0,Produit du poids public et taxe de pesage et de mesurage,,ligne,Produit du poids public et taxe de pesage et de me
+862,40.0,10.0,10.0,63.0,Produit de l'exploitation du service des eaux,,ligne,Produit de l'exploitation du service des eaux
+863,40.0,10.0,10.0,64.0,Produit de l'exploitation du service de distribution de l'énergie électrique,,ligne,Produit de l'exploitation du service de distributi
+864,40.0,10.0,10.0,65.0,Taxe sur les viandes foraines,,ligne,Taxe sur les viandes foraines
+865,40.0,20.0,20.0,,Transport,,article,Transport
+866,40.0,20.0,20.0,10.0,Recettes Fiscales,,ligne,Recettes Fiscales
+867,4420.0,40.0,40.0,20.0,Taxe sur les licences de taxis et de cars de transport public de voyageurs,,ligne,Taxe sur les licences de taxis et de cars de trans
+868,4410.0,40.0,40.0,20.0,Taxe sur les motocyclettes dont la cylindrée est égale ou supérieure à 125 cm3 125,,ligne,Taxe sur les motocyclettes dont la cylindrée est é
+869,40.0,20.0,20.0,15.0,Taxe additionnelle à la taxe spéciale annuelle sur les véhicules automobiles,,ligne,Taxe additionnelle à la taxe spéciale annuelle sur
+870,40.0,20.0,20.0,16.0,(Taxe sur le transport public de voyageurs (ca,,ligne,(Taxe sur le transport public de voyageurs (ca
+871,40.0,20.0,20.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+872,40.0,20.0,20.0,21.0,Concession pour transport urbain,,ligne,Concession pour transport urbain
+873,40.0,20.0,20.0,22.0,Concession pour transport de viandes,,ligne,Concession pour transport de viandes
+874,40.0,20.0,20.0,23.0,Concession pour transport de poissons,,ligne,Concession pour transport de poissons
+875,40.0,20.0,20.0,24.0,Concession pour l'exploitation des aires et parcs de stationnement,,ligne,Concession pour l'exploitation des aires et parcs 
+876,40.0,20.0,20.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+877,40.0,20.0,20.0,31.0,Produit de la gare routière,,ligne,Produit de la gare routière
+878,40.0,20.0,20.0,32.0,Produit des garages à vélocipèdes et parc autos,,ligne,Produit des garages à vélocipèdes et parc autos
+879,40.0,20.0,20.0,33.0,Droit de stationnement sur les véhicules affectés à un transport public de voyageurs,,ligne,Droit de stationnement sur les véhicules affectés 
+880,40.0,20.0,20.0,34.0,Transport de viandes,,ligne,Transport de viandes
+881,50.0,,,,DOMAINE DE SOUTIEN,,chapitre,DOMAINE DE SOUTIEN
+882,50.0,10.0,10.0,,Produits financiers,,article,Produits financiers
+883,50.0,10.0,10.0,10.0,.Produit des intérêts des fonds placés au trésor,,ligne,.Produit des intérêts des fonds placés au trésor
+884,50.0,10.0,10.0,20.0,Produit des dividendes,,ligne,Produit des dividendes
+885,50.0,20.0,20.0,,Subventions,,article,Subventions
+886,50.0,20.0,20.0,10.0,Subvention de l'Etat,,ligne,Subvention de l'Etat
+887,50.0,20.0,20.0,20.0,Subventions accordées par des organismes publics,,ligne,Subventions accordées par des organismes publics
+888,50.0,20.0,20.0,30.0,Subventions accordées par des personnes morales,,ligne,Subventions accordées par des personnes morales
+889,50.0,20.0,20.0,40.0,Autres subventions,,ligne,Autres subventions
+890,50.0,30.0,30.0,,Fonds de concours et participations,,article,Fonds de concours et participations
+891,50.0,30.0,30.0,10.0,Fonds de concours,,ligne,Fonds de concours
+892,50.0,30.0,30.0,20.0,Participations,,ligne,Participations
+893,50.0,30.0,30.0,21.0,Participations de l'Etat,,ligne,Participations de l'Etat
+894,50.0,30.0,30.0,22.0,Participations des collectivités territoriales,,ligne,Participations des collectivités territoriales
+895,50.0,30.0,30.0,23.0,Participations des groupements et les établissements de coopération intercommunale,,ligne,Participations des groupements et les établissemen
+896,50.0,30.0,30.0,24.0,Participations des établissements et autres organismes publics,,ligne,Participations des établissements et autres organi
+897,50.0,30.0,30.0,25.0,Autes participations,,ligne,Autes participations
+898,50.0,40.0,40.0,,Recettes accidentelles,,article,Recettes accidentelles
+899,50.0,40.0,40.0,10.0,Dons et legs non grevés de charges,,ligne,Dons et legs non grevés de charges
+900,50.0,40.0,40.0,20.0,Avertissements taxés,,ligne,Avertissements taxés
+901,50.0,40.0,40.0,30.0,Produit de la sous location d'immeubles loués pour les besoins de service,,ligne,Produit de la sous location d'immeubles loués pour
+902,50.0,40.0,40.0,40.0,Recettes imprévues et diverses,,ligne,Recettes imprévues et diverses
+903,60.0,,,,DOMAINE DE CONSOLIDATION DE RESULTATS,,chapitre,DOMAINE DE CONSOLIDATION DE RESULTATS
+904,60.0,10.0,10.0,,Recettes d'ordre,,article,Recettes d'ordre
+905,60.0,10.0,10.0,10.0,Versement de la deuxième partie du budget,,ligne,Versement de la deuxième partie du budget
+906,60.0,10.0,10.0,20.0,Remboursement d'annuités d'emprunts garantis,,ligne,Remboursement d'annuités d'emprunts garantis
+907,60.0,10.0,10.0,30.0,Recettes pour le compte des collectivités territoriales,,ligne,Recettes pour le compte des collectivités territor
+908,60.0,10.0,10.0,40.0,Recettes pour d'autres tiers,,ligne,Recettes pour d'autres tiers
+909,10.0,,,,ADMINISTRATION GENERALE,,chapitre,ADMINISTRATION GENERALE
+910,10.0,10.0,10.0,10.0,Action du Conseil ou Assemblée,,ligne,Action du Conseil ou Assemblée
+911,11.0,10.0,10.0,10.0,Indémnités représentatives de frais,,ligne,Indémnités représentatives de frais
+912,1290.0,10.0,10.0,10.0,Indémnités au président et aux conseillers y ayant droit,,ligne,Indémnités au président et aux conseillers y ayant
+913,4211.0,10.0,10.0,10.0,Frais de transport du président et des conseillers à l'intérieur du Royaume,,ligne,Frais de transport du président et des conseillers
+914,4212.0,10.0,10.0,10.0,Frais de transport du président et des conseillers à l'étranger,,ligne,Frais de transport du président et des conseillers
+915,4221.0,10.0,10.0,10.0,Frais de déplacement du président et des conseillers à l'intérieur du Royaume,,ligne,Frais de déplacement du président et des conseille
+916,4222.0,10.0,10.0,10.0,Frais de mission du président et des conseillers à l'étranger,,ligne,Frais de mission du président et des conseillers à
+917,4930.0,10.0,10.0,10.0,Frais d'assurance des membres,,ligne,Frais d'assurance des membres
+918,3910.0,10.0,10.0,10.0,Achat de petit matériel fongible de décoration et de pavoisement,,ligne,Achat de petit matériel fongible de décoration et 
+919,4490.0,10.0,10.0,10.0,Location de matériel des fêtes,,ligne,Location de matériel des fêtes
+920,3990.0,10.0,10.0,10.0,Achat d'objets d'art ou cadeaux,,ligne,Achat d'objets d'art ou cadeaux
+921,4700.0,10.0,10.0,10.0,"Frais d'hebergement, de restauration et de réception",,ligne,"Frais d'hebergement, de restauration et de récepti"
+922,4590.0,10.0,10.0,10.0,Frais d'animation artistiques et culturelles,,ligne,Frais d'animation artistiques et culturelles
+923,5910.0,10.0,10.0,10.0,Cotisation à,,ligne,Cotisation à
+924,4990.0,10.0,10.0,10.0,Abonnement aux bulletins officiels et aux journaux et revues,,ligne,Abonnement aux bulletins officiels et aux journaux
+925,4940.0,10.0,10.0,10.0,Abonnement aux agences d'information,,ligne,Abonnement aux agences d'information
+926,3520.0,10.0,10.0,10.0,Achat de documentations diverses,,ligne,Achat de documentations diverses
+927,4210.0,10.0,10.0,10.0,Frais de transport,,ligne,Frais de transport
+928,3510.0,10.0,10.0,10.0,Fournitures et impression,,ligne,Fournitures et impression
+929,4550.0,10.0,10.0,10.0,Frais d'honoraires,,ligne,Frais d'honoraires
+930,4540.0,10.0,10.0,10.0,Vacations,,ligne,Vacations
+931,10.0,20.0,20.0,20.0,Actions liées à la gestion du personnel,,ligne,Actions liées à la gestion du personnel
+932,12.0,10.0,10.0,20.0,Rémunérations principales,,ligne,Rémunérations principales
+933,1110.0,10.0,10.0,20.0,Traitements et indémnités permanentes du personnel titulaire et assimilés,,ligne,Traitements et indémnités permanentes du personnel
+934,1120.0,10.0,10.0,20.0,Salaires et indemnités du personnel temporaire,,ligne,Salaires et indemnités du personnel temporaire
+935,1140.0,10.0,10.0,20.0,Salaires des contractuels,,ligne,Salaires des contractuels
+936,1190.0,10.0,10.0,20.0,Salaires et traitements des volontaires au service national actif (V.S.N.A.),,ligne,Salaires et traitements des volontaires au service
+937,1210.0,10.0,10.0,20.0,Indemnités pour travaux supplémentaires,,ligne,Indemnités pour travaux supplémentaires
+938,1220.0,10.0,10.0,20.0,indémnités de caisse,,ligne,indémnités de caisse
+939,1230.0,10.0,10.0,20.0,Indemnités pour travaux pénibles et salissants,,ligne,Indemnités pour travaux pénibles et salissants
+940,1311.0,10.0,10.0,20.0,Participations patronales à la caisse marocaine de retraite (C.M.R.),,ligne,Participations patronales à la caisse marocaine de
+941,1312.0,10.0,10.0,20.0,Participations patronales au régime collectif d'allocation de retraite (R.C.A.R.),,ligne,Participations patronales au régime collectif d'al
+942,1320.0,10.0,10.0,20.0,Participations patronales aux organismes de prévoyance sociale (CNOPS),,ligne,Participations patronales aux organismes de prévoy
+943,1420.0,10.0,10.0,20.0,Prime de naissance,,ligne,Prime de naissance
+944,4930.0,10.0,10.0,20.0,Assurance des fonctionnaires et agents,,ligne,Assurance des fonctionnaires et agents
+945,1430.0,10.0,10.0,20.0,Aide exceptionnelle au logement,,ligne,Aide exceptionnelle au logement
+946,5810.0,10.0,10.0,20.0,Assistance au titre du pèlerinage aux lieux saints de l'islam,,ligne,Assistance au titre du pèlerinage aux lieux saints
+947,3420.0,10.0,10.0,20.0,Habillement des agents y ayant droit,,ligne,Habillement des agents y ayant droit
+948,4221.0,10.0,10.0,20.0,Frais de déplacement à l'intérieur du Royaume,,ligne,Frais de déplacement à l'intérieur du Royaume
+949,4222.0,10.0,10.0,20.0,Frais de mission à l'étranger,,ligne,Frais de mission à l'étranger
+950,4211.0,10.0,10.0,20.0,Frais de transport à l'intérieur du Royaume,,ligne,Frais de transport à l'intérieur du Royaume
+951,4220.0,10.0,10.0,20.0,Frais de stage,,ligne,Frais de stage
+952,10.0,30.0,30.0,30.0,Actions liées aux autres moyens de fonctionnement,,ligne,Actions liées aux autres moyens de fonctionnement
+953,12.0,10.0,10.0,30.0,Location,,ligne,Location
+954,4412.0,10.0,10.0,30.0,Location de bâtiments administratifs,,ligne,Location de bâtiments administratifs
+955,4413.0,10.0,10.0,30.0,Location de logements,,ligne,Location de logements
+956,4411.0,10.0,10.0,30.0,Location de terrains,,ligne,Location de terrains
+957,4421.0,10.0,10.0,30.0,Location de matériel de transport et engins,,ligne,Location de matériel de transport et engins
+958,4423.0,10.0,10.0,30.0,Location de matériel informatique,,ligne,Location de matériel informatique
+959,4111.0,10.0,10.0,30.0,Entretien courant de bâtiments administratifs,,ligne,Entretien courant de bâtiments administratifs
+960,4112.0,10.0,10.0,30.0,Entretien courant de logements,,ligne,Entretien courant de logements
+961,4133.0,10.0,10.0,30.0,Entretien et réparation courant de matériel informatique,,ligne,Entretien et réparation courant de matériel inform
+962,4134.0,10.0,10.0,30.0,Entretien courant de matériel et mobilier de bureau,,ligne,Entretien courant de matériel et mobilier de burea
+963,4190.0,10.0,10.0,30.0,"Entretien courant de réseaux téléphoniques, électriques et d'eau",,ligne,"Entretien courant de réseaux téléphoniques, électr"
+964,4132.0,10.0,10.0,30.0,Entretien courant de matériel technique,,ligne,Entretien courant de matériel technique
+965,3510.0,10.0,10.0,30.0,"Fournitures de bureau, produits d'impression, papeterie et imprimés",,ligne,"Fournitures de bureau, produits d'impression, pape"
+966,3530.0,10.0,10.0,30.0,Fournitures pour matériel technique et informatique,,ligne,Fournitures pour matériel technique et informatiqu
+967,3590.0,10.0,10.0,30.0,Fournitures et produits de publication,,ligne,Fournitures et produits de publication
+968,3310.0,10.0,10.0,30.0,Achat de carburants et lubrifiants,,ligne,Achat de carburants et lubrifiants
+969,3710.0,10.0,10.0,30.0,Pièces de rechange et pneumatique pour les véhicules et engins,,ligne,Pièces de rechange et pneumatique pour les véhicul
+970,4131.0,10.0,10.0,30.0,Entretien et réparation de véhicules et engins,,ligne,Entretien et réparation de véhicules et engins
+971,4930.0,10.0,10.0,30.0,Frais d'assurance de véhicules et engins,,ligne,Frais d'assurance de véhicules et engins
+972,2900.0,10.0,10.0,30.0,Taxe spéciale sur les véhicules,,ligne,Taxe spéciale sur les véhicules
+973,3210.0,10.0,10.0,30.0,Achat de produits bruts des carrières,,ligne,Achat de produits bruts des carrières
+974,3220.0,10.0,10.0,30.0,"Achat de ciment, trottoirs et carreaux",,ligne,"Achat de ciment, trottoirs et carreaux"
+975,3230.0,10.0,10.0,30.0,Achat de bois,,ligne,Achat de bois
+976,3240.0,10.0,10.0,30.0,"Achat de produits de feronnerie, regards et buses",,ligne,"Achat de produits de feronnerie, regards et buses"
+977,3250.0,10.0,10.0,30.0,Achat de vitrerie,,ligne,Achat de vitrerie
+978,3260.0,10.0,10.0,30.0,Achat de peinture,,ligne,Achat de peinture
+979,3270.0,10.0,10.0,30.0,Achat d'articles sanitaires et de plomberie,,ligne,Achat d'articles sanitaires et de plomberie
+980,3280.0,10.0,10.0,30.0,Achat de petit matériel électrique,,ligne,Achat de petit matériel électrique
+981,3350.0,10.0,10.0,30.0,Achat de bitume,,ligne,Achat de bitume
+982,3290.0,10.0,10.0,30.0,Achat de chaux,,ligne,Achat de chaux
+983,3630.0,10.0,10.0,30.0,Achat de produits d'entretien ménager,,ligne,Achat de produits d'entretien ménager
+984,3640.0,10.0,10.0,30.0,Achat de produits désinfectants,,ligne,Achat de produits désinfectants
+985,3120.0,10.0,10.0,30.0,Frais de fourniture de bétail et harnachement,,ligne,Frais de fourniture de bétail et harnachement
+986,3990.0,10.0,10.0,30.0,Achat d'armes et munitions,,ligne,Achat d'armes et munitions
+987,3390.0,10.0,10.0,30.0,Achat de graisse,,ligne,Achat de graisse
+988,4510.0,10.0,10.0,30.0,Etudes générales,,ligne,Etudes générales
+989,4520.0,10.0,10.0,30.0,Frais d'études techniques et d'analyses,,ligne,Frais d'études techniques et d'analyses
+990,4550.0,10.0,10.0,30.0,Honoraires,,ligne,Honoraires
+991,3320.0,10.0,10.0,30.0,Redevances d'électricité,,ligne,Redevances d'électricité
+992,3330.0,10.0,10.0,30.0,Redevances d'eau,,ligne,Redevances d'eau
+993,3360.0,10.0,10.0,30.0,Frais de chauffage et produits de chauffage,,ligne,Frais de chauffage et produits de chauffage
+994,4300.0,10.0,10.0,30.0,Taxes et redevances de télécommunication,,ligne,Taxes et redevances de télécommunication
+995,4340.0,10.0,10.0,30.0,Taxes postales et affranchissement,,ligne,Taxes postales et affranchissement
+996,4600.0,10.0,10.0,30.0,"Publicités, Annonces, insertion, frais de publication",,ligne,"Publicités, Annonces, insertion, frais de publicat"
+997,10.0,40.0,40.0,40.0,Actions financières liées à la charge de la dette,,ligne,Actions financières liées à la charge de la dette
+998,2.0,10.0,10.0,40.0,Intérêts des emprunts,,ligne,Intérêts des emprunts
+999,6110.0,10.0,10.0,40.0,Intérêts de l'emprunt n contracté auprès du,,ligne,Intérêts de l'emprunt n contracté auprès du
+1000,20.0,,,,DOMAINES DES AFFAIRES SOCIALES,,chapitre,DOMAINES DES AFFAIRES SOCIALES
+1001,20.0,10.0,10.0,10.0,Assistance sociale,,ligne,Assistance sociale
+1002,64.0,20.0,20.0,10.0,Assistance aux associations et institutions locales,,ligne,Assistance aux associations et institutions locale
+1003,5730.0,20.0,20.0,10.0,Subventions aux associations des oeuvres sociales du personnel,,ligne,Subventions aux associations des oeuvres sociales 
+1004,5710.0,20.0,20.0,10.0,Subventions aux institutions publiques de bienfaisance,,ligne,Subventions aux institutions publiques de bienfais
+1005,9999.0,20.0,20.0,10.0,Participation à l'établissement des œuvres sociales des fonctionnaires des CT,,ligne,Participation à l'établissement des œuvres sociale
+1006,5890.0,20.0,20.0,10.0,Frais de transport des malades et des bléssés vers les centres hospitaliers,,ligne,Frais de transport des malades et des bléssés vers
+1007,1540.0,20.0,20.0,10.0,Frais de fonctionnement des foyers socioculturels de femme,,ligne,Frais de fonctionnement des foyers socioculturels 
+1008,20.0,20.0,20.0,20.0,Concours aux sports et loisirs,,ligne,Concours aux sports et loisirs
+1009,45.0,20.0,20.0,20.0,Associations et clubs de sports,,ligne,Associations et clubs de sports
+1010,5710.0,20.0,20.0,20.0,Allocations aux associations sportives,,ligne,Allocations aux associations sportives
+1011,5720.0,20.0,20.0,20.0,Allocations aux clubs sportifs,,ligne,Allocations aux clubs sportifs
+1012,3990.0,20.0,20.0,20.0,Achat d'articles de sport,,ligne,Achat d'articles de sport
+1013,20.0,30.0,30.0,30.0,Soins de santé de base et d'hygiène,,ligne,Soins de santé de base et d'hygiène
+1014,53.0,20.0,20.0,30.0,Produits pharmaceutiques et d'hygiène,,ligne,Produits pharmaceutiques et d'hygiène
+1015,9999.0,20.0,20.0,30.0,Achat de produits pharmaceutiques pour les B.M.H. et les centres hospitaliers,,ligne,Achat de produits pharmaceutiques pour les B.M.H. 
+1016,3610.0,20.0,20.0,30.0,"Produits d'hygiène pour les B.M.H., centres hospitaliers et dispensaires",,ligne,"Produits d'hygiène pour les B.M.H., centres hospit"
+1017,3600.0,20.0,20.0,30.0,Achat de produits pour dératisation,,ligne,Achat de produits pour dératisation
+1018,3640.0,20.0,20.0,30.0,Achat de petit matériel pour les B.M.H,,ligne,Achat de petit matériel pour les B.M.H
+1019,3990.0,20.0,20.0,30.0,Achat de petit matériel de vaccination,,ligne,Achat de petit matériel de vaccination
+1020,20.0,40.0,40.0,40.0,Conservation des centres hospitaliers,,ligne,Conservation des centres hospitaliers
+1021,54.0,20.0,20.0,40.0,Fournitures pour les centres hospitaliers et dispensaires,,ligne,Fournitures pour les centres hospitaliers et dispe
+1022,3910.0,20.0,20.0,40.0,Achat d'outillage et petit matériel,,ligne,Achat d'outillage et petit matériel
+1023,3610.0,20.0,20.0,40.0,Achat de produits de laboratoire,,ligne,Achat de produits de laboratoire
+1024,3420.0,20.0,20.0,40.0,Achat d'habillement et de linge,,ligne,Achat d'habillement et de linge
+1025,4110.0,20.0,20.0,40.0,Entretien courant des bâtiments des centres hospitaliers,,ligne,Entretien courant des bâtiments des centres hospit
+1026,4132.0,20.0,20.0,40.0,Entretien et réparation courant de matériel technique,,ligne,Entretien et réparation courant de matériel techni
+1027,4134.0,20.0,20.0,40.0,Entretien et réparation courant du mobilier et matériel de bureau,,ligne,Entretien et réparation courant du mobilier et mat
+1028,20.0,50.0,50.0,50.0,Enseignement primaire,,ligne,Enseignement primaire
+1029,32.0,20.0,20.0,50.0,Denrées et fournitures consommées,,ligne,Denrées et fournitures consommées
+1030,3510.0,20.0,20.0,50.0,Achat de fournitures scolaires,,ligne,Achat de fournitures scolaires
+1031,3990.0,20.0,20.0,50.0,Achat de livres remis en prix,,ligne,Achat de livres remis en prix
+1032,3110.0,20.0,20.0,50.0,Achat de denrées alimentaires pour les cantines,,ligne,Achat de denrées alimentaires pour les cantines
+1033,4134.0,20.0,20.0,50.0,Entretien et réparation courants de matériel et mobilier,,ligne,Entretien et réparation courants de matériel et mo
+1034,4111.0,20.0,20.0,50.0,Entretien courant de bâtiments,,ligne,Entretien courant de bâtiments
+1035,20.0,60.0,60.0,60.0,Enseignement secondaire,,ligne,Enseignement secondaire
+1036,33.0,20.0,20.0,60.0,Denrées et fournitures consommées,,ligne,Denrées et fournitures consommées
+1037,3510.0,20.0,20.0,60.0,Achat de fournitures scolaires,,ligne,Achat de fournitures scolaires
+1038,3520.0,20.0,20.0,60.0,Achat de livres pour les bibliothèques,,ligne,Achat de livres pour les bibliothèques
+1039,3990.0,20.0,20.0,60.0,Achat de livres pour la remise en prix,,ligne,Achat de livres pour la remise en prix
+1040,3110.0,20.0,20.0,60.0,Achat de denrées alimentaires pour les internats,,ligne,Achat de denrées alimentaires pour les internats
+1041,3420.0,20.0,20.0,60.0,Achat d'habillement et de linge pour les internats,,ligne,Achat d'habillement et de linge pour les internats
+1042,3910.0,20.0,20.0,60.0,Achat de petit matériel pour les internats,,ligne,Achat de petit matériel pour les internats
+1043,4130.0,20.0,20.0,60.0,Entretien et réparation courants de matériel,,ligne,Entretien et réparation courants de matériel
+1044,4111.0,20.0,20.0,60.0,Entretien et réparation courants de bâtiments,,ligne,Entretien et réparation courants de bâtiments
+1045,20.0,70.0,70.0,70.0,Formation renforcement des capacités,,ligne,Formation renforcement des capacités
+1046,34.0,20.0,20.0,70.0,Centres de formation,,ligne,Centres de formation
+1047,4540.0,20.0,20.0,70.0,Frais de formation continue pour les élus,,ligne,Frais de formation continue pour les élus
+1048,20.0,80.0,80.0,80.0,Culture et beaux arts,,ligne,Culture et beaux arts
+1049,43.0,20.0,20.0,80.0,Bibliothèques,,ligne,Bibliothèques
+1050,3520.0,20.0,20.0,80.0,Achat de livres,,ligne,Achat de livres
+1051,4134.0,20.0,20.0,80.0,Entretien et réparation courants de matériel et de mobilier,,ligne,Entretien et réparation courants de matériel et de
+1052,4110.0,20.0,20.0,80.0,Entretien courant de bâtiments,,ligne,Entretien courant de bâtiments
+1053,3510.0,20.0,20.0,80.0,Reliure de livres et registres divers,,ligne,Reliure de livres et registres divers
+1054,3990.0,20.0,20.0,80.0,Achat d'instruments de musique,,ligne,Achat d'instruments de musique
+1055,4132.0,20.0,20.0,80.0,Entretien et réparation courants de matériel technique,,ligne,Entretien et réparation courants de matériel techn
+1056,3910.0,20.0,20.0,80.0,Achat de petit matériel,,ligne,Achat de petit matériel
+1057,4130.0,20.0,20.0,80.0,Entretien et réparation courants de matériel,,ligne,Entretien et réparation courants de matériel
+1058,4111.0,20.0,20.0,80.0,Entretien courant de bâtiments,,ligne,Entretien courant de bâtiments
+1059,20.0,90.0,90.0,90.0,Activités cutuelles,,ligne,Activités cutuelles
+1060,42.0,20.0,20.0,90.0,Cérémonies religieuses,,ligne,Cérémonies religieuses
+1061,4800.0,20.0,20.0,90.0,Frais de cérémonies,,ligne,Frais de cérémonies
+1062,3200.0,20.0,20.0,90.0,Achat de matériaux de construction,,ligne,Achat de matériaux de construction
+1063,4190.0,20.0,20.0,90.0,Entretien et réparation courants de cimetières,,ligne,Entretien et réparation courants de cimetières
+1064,30.0,10.0,10.0,10.0,"Urbanisme, habitat et protection de l'environnement",,ligne,"Urbanisme, habitat et protection de l'environnemen"
+1065,97.0,30.0,30.0,10.0,"Habitat, espaces verts, jardins et protection de l'environnement",,ligne,"Habitat, espaces verts, jardins et protection de l"
+1066,3190.0,30.0,30.0,10.0,Achat d'arbres et de plantes,,ligne,Achat d'arbres et de plantes
+1067,3620.0,30.0,30.0,10.0,Achat d'engrais,,ligne,Achat d'engrais
+1068,3910.0,30.0,30.0,10.0,Achat de petit matériel de signalisation,,ligne,Achat de petit matériel de signalisation
+1069,3920.0,30.0,30.0,10.0,Achat des plaques de numérotation des immeubles,,ligne,Achat des plaques de numérotation des immeubles
+1070,3290.0,30.0,30.0,10.0,Achat de buses et regards en fonte,,ligne,Achat de buses et regards en fonte
+1071,4190.0,30.0,30.0,10.0,"Entretien courant d'espaces verts, jardins et forêts",,ligne,"Entretien courant d'espaces verts, jardins et forê"
+1072,4121.0,30.0,30.0,10.0,"Entretien de places publiques, parcs, parckings et décharges publiques",,ligne,"Entretien de places publiques, parcs, parckings et"
+1073,4290.0,30.0,30.0,10.0,Entretien d'égouts,,ligne,Entretien d'égouts
+1074,4122.0,30.0,30.0,10.0,Entretien courant de voies,,ligne,Entretien courant de voies
+1075,4113.0,30.0,30.0,10.0,Entretien de bâtiments techniques,,ligne,Entretien de bâtiments techniques
+1076,30.0,20.0,20.0,20.0,Eclairage public,,ligne,Eclairage public
+1077,89.0,30.0,30.0,20.0,Maintenance et conservation,,ligne,Maintenance et conservation
+1078,4123.0,30.0,30.0,20.0,Entretien et réparation courants de réseaux et installation d'électricité,,ligne,Entretien et réparation courants de réseaux et ins
+1079,4190.0,30.0,30.0,20.0,"Entretien courant de générateurs, postes de transformation et paneaux solaires",,ligne,"Entretien courant de générateurs, postes de transf"
+1080,3990.0,30.0,30.0,20.0,Achat de matériel d'entretien,,ligne,Achat de matériel d'entretien
+1081,3320.0,30.0,30.0,20.0,Redevances,,ligne,Redevances
+1082,30.0,30.0,30.0,30.0,Points d'eau,,ligne,Points d'eau
+1083,87.0,30.0,30.0,30.0,Maintenance et conservation,,ligne,Maintenance et conservation
+1084,3330.0,30.0,30.0,30.0,Redevances,,ligne,Redevances
+1085,3990.0,30.0,30.0,30.0,Achat de matériel d'entretien,,ligne,Achat de matériel d'entretien
+1086,40.0,10.0,10.0,10.0,Activités agricoles,,ligne,Activités agricoles
+1087,79.0,40.0,40.0,10.0,Aides aux agriculteurs,,ligne,Aides aux agriculteurs
+1088,5100.0,40.0,40.0,10.0,Participation aux frais de fonctionnement des centres de vulgarisation agricole,,ligne,Participation aux frais de fonctionnement des cent
+1089,40.0,20.0,20.0,20.0,Activité commerciale,,ligne,Activité commerciale
+1090,95.0,40.0,40.0,20.0,Aides aux oopératives,,ligne,Aides aux oopératives
+1091,7700.0,40.0,40.0,20.0,Artisanales,,ligne,Artisanales
+1092,50.0,10.0,10.0,10.0,Soutien à des opérations diverses,,ligne,Soutien à des opérations diverses
+1093,9.0,50.0,50.0,10.0,"Remboursement et restitution de droits, taxes et redevances indûment perçus",,ligne,"Remboursement et restitution de droits, taxes et r"
+1094,5890.0,50.0,50.0,10.0,Remboursement aux particuliers,,ligne,Remboursement aux particuliers
+1095,5120.0,50.0,50.0,10.0,Remboursement aux entreprises,,ligne,Remboursement aux entreprises
+1096,5840.0,50.0,50.0,10.0,Frais d'exécution des jugements et des convention de transaction,,ligne,Frais d'exécution des jugements et des convention 
+1097,9999.0,50.0,50.0,10.0,Frais de procédures et d'instances,,ligne,Frais de procédures et d'instances
+1098,0.0,50.0,50.0,10.0,Dépenses assurance régisseurs en recettes,,ligne,Dépenses assurance régisseurs en recettes
+1099,50.0,20.0,20.0,20.0,Soutien par dépenses imprévues,,ligne,Soutien par dépenses imprévues
+1100,4.0,50.0,50.0,20.0,Soutien par dépenses imprévues,,ligne,Soutien par dépenses imprévues
+1101,1190.0,50.0,50.0,20.0,Personnel,,ligne,Personnel
+1102,3590.0,50.0,50.0,20.0,Matériel et frais de fonctionnement,,ligne,Matériel et frais de fonctionnement
+1103,50.0,30.0,30.0,30.0,Soutien par dépenses pour le compte des tiers,,ligne,Soutien par dépenses pour le compte des tiers
+1104,0.0,50.0,50.0,30.0,Dépenses pour le compte des tiers,,ligne,Dépenses pour le compte des tiers
+1105,5400.0,50.0,50.0,30.0,Travaux de salubrité et sécurité publiques exécutés pour le compte des propriétaires défaillants,,ligne,Travaux de salubrité et sécurité publiques exécuté
+1106,50.0,40.0,40.0,40.0,Concours et versements,,ligne,Concours et versements
+1107,3.0,50.0,50.0,40.0,Concours aux budgets annexes,,ligne,Concours aux budgets annexes
+1108,5300.0,50.0,50.0,40.0,Concours au budget annexe de,,ligne,Concours au budget annexe de
+1109,5400.0,50.0,50.0,40.0,Versement au C.D.D de,,ligne,Versement au C.D.D de
+1110,5610.0,50.0,50.0,40.0,Versement.pour la formation continue,,ligne,Versement.pour la formation continue
+1111,5123.0,50.0,50.0,40.0,Versement aux entreprises privées en contre partie des services rendus à la collectivité territoriale,,ligne,Versement aux entreprises privées en contre partie
+1112,5113.0,50.0,50.0,40.0,versement à la société nationale du transport et de la logistique,,ligne,versement à la société nationale du transport et d
+1113,5111.0,50.0,50.0,40.0,versement à la régie autonome du transport,,ligne,versement à la régie autonome du transport
+1114,5530.0,50.0,50.0,40.0,versement aux établissements de formation,,ligne,versement aux établissements de formation
+1115,5510.0,50.0,50.0,40.0,"versement au service d'acceuil, d'assistance et d'évaluation des programmes",,ligne,"versement au service d'acceuil, d'assistance et d'"
+1116,9999.0,50.0,50.0,40.0,versements au compte RAMED,,ligne,versements au compte RAMED
+1117,60.0,,,,DOMAINE DE CONSOLIDATION DES RESULTATS,,chapitre,DOMAINE DE CONSOLIDATION DES RESULTATS
+1118,60.0,10.0,10.0,10.0,Résultats,,ligne,Résultats
+1119,9.0,60.0,60.0,10.0,Versement de l'excédent à la 2ème partie,,ligne,Versement de l'excédent à la 2ème partie
+1120,5000.0,60.0,60.0,10.0,Versement de l'excédent à la 2ème partie,,ligne,Versement de l'excédent à la 2ème partie
+1121,10.0,10.0,10.0,20.0,Les contributions financières du budget général de l'Etat,,ligne,Les contributions financières du budget général de
+1122,5113.0,10.0,10.0,10.0,Les contributions financières liées aux compétences partagées,,ligne,Les contributions financières liées aux compétence
+1123,5112.0,20.0,20.0,10.0,.Participation à la construction des égouts,,ligne,.Participation à la construction des égouts
+1124,5113.0,20.0,20.0,10.0,Participation à la construction des canalisations d'eau .potable,,ligne,Participation à la construction des canalisations 
+1125,30.0,10.0,10.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+1126,5111.0,30.0,30.0,10.0,Contribution des riverains aux dépenses d'équipement et d'aménagement,,ligne,Contribution des riverains aux dépenses d'équipeme
+1127,30.0,10.0,10.0,32.0,.Participation à la construction des chaussées,,ligne,.Participation à la construction des chaussées
+1128,30.0,10.0,10.0,33.0,.Participation à la construction des trottoirs et caniveaux,,ligne,.Participation à la construction des trottoirs et 
+1129,40.0,10.0,10.0,21.0,Vente d'immeubles bâtis,,ligne,Vente d'immeubles bâtis
+1130,40.0,10.0,10.0,22.0,Vente de terrains non bâtis,,ligne,Vente de terrains non bâtis
+1131,50.0,10.0,10.0,11.0,Excédents de la première .partie,,ligne,Excédents de la première .partie
+1132,50.0,10.0,10.0,12.0,.Excédents de l'année précédente,,ligne,.Excédents de l'année précédente
+1133,50.0,10.0,10.0,30.0,.Soldes des comptes spéciaux,,ligne,.Soldes des comptes spéciaux
+1134,50.0,10.0,10.0,31.0,.Soldes des comptes d'affectation spéciale,,ligne,.Soldes des comptes d'affectation spéciale
+1135,50.0,10.0,10.0,32.0,Excédents non consommés des comptes de dépenses sur dotations,,ligne,Excédents non consommés des comptes de dépenses su
+1136,50.0,10.0,10.0,40.0,Produits des dividendes,,ligne,Produits des dividendes
+1137,50.0,10.0,10.0,41.0,Produits des dividendes de la société,,ligne,Produits des dividendes de la société
+1138,50.0,10.0,10.0,42.0,Produits des dividendes de la société,,ligne,Produits des dividendes de la société
+1139,50.0,20.0,20.0,11.0,Dotations spéciales TVA pour l'équipement,,ligne,Dotations spéciales TVA pour l'équipement
+1140,50.0,20.0,20.0,12.0,Subventions des départements ministériels,,ligne,Subventions des départements ministériels
+1141,50.0,20.0,20.0,13.0,.Subventions des offices et établissements publics,,ligne,.Subventions des offices et établissements publics
+1142,50.0,20.0,20.0,14.0,Subventions des collectivités territoriales,,ligne,Subventions des collectivités territoriales
+1143,50.0,20.0,20.0,15.0,Autres subventions,,ligne,Autres subventions
+1144,50.0,30.0,30.0,11.0,Participation des départements ministériels,,ligne,Participation des départements ministériels
+1145,50.0,30.0,30.0,12.0,.Participation des offices et établissements publics,,ligne,.Participation des offices et établissements publi
+1146,50.0,30.0,30.0,13.0,Participations des collectivités territoriales,,ligne,Participations des collectivités territoriales
+1147,50.0,30.0,30.0,30.0,.(Fonds de concours (dons et legs,,ligne,.(Fonds de concours (dons et legs
+1148,50.0,30.0,30.0,31.0,Dons,,ligne,Dons
+1149,50.0,30.0,30.0,32.0,Legs,,ligne,Legs
+1150,3120.0,50.0,50.0,40.0,.Produits des emprunts FEC,,ligne,.Produits des emprunts FEC
+1151,3190.0,50.0,50.0,40.0,.Produits des autres emprunts,,ligne,.Produits des autres emprunts
+1152,9999.0,10.0,10.0,10.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1153,8110.0,10.0,10.0,10.0,Terrains,,ligne,Terrains
+1154,8130.0,10.0,10.0,10.0,Bâtiments,,ligne,Bâtiments
+1155,2400.0,10.0,10.0,10.0,Droits et taxes liés aux acquisitions immobilières,,ligne,Droits et taxes liés aux acquisitions immobilières
+1156,8800.0,10.0,10.0,10.0,Etudes et assistance techniques,,ligne,Etudes et assistance techniques
+1157,8210.0,10.0,10.0,10.0,Construction de bâtiments,,ligne,Construction de bâtiments
+1158,8250.0,10.0,10.0,10.0,Construction de mûrs de clôture,,ligne,Construction de mûrs de clôture
+1159,2900.0,10.0,10.0,10.0,Droits et taxes liés aux constructions,,ligne,Droits et taxes liés aux constructions
+1160,8390.0,10.0,10.0,10.0,Terrains,,ligne,Terrains
+1161,8260.0,10.0,10.0,10.0,Logements,,ligne,Logements
+1162,12.0,10.0,10.0,10.0,Patrimoine mobilier,,ligne,Patrimoine mobilier
+1163,8510.0,10.0,10.0,10.0,"Véhicules, motocycles, cycles et engins",,ligne,"Véhicules, motocycles, cycles et engins"
+1164,8710.0,10.0,10.0,10.0,Matériel et mobilier de bureau,,ligne,Matériel et mobilier de bureau
+1165,8410.0,10.0,10.0,10.0,Matériel technique,,ligne,Matériel technique
+1166,8450.0,10.0,10.0,10.0,"Matériel informatique, logiciels et licence électronique",,ligne,"Matériel informatique, logiciels et licence électr"
+1167,8440.0,10.0,10.0,10.0,Matériel électrique et électronique,,ligne,Matériel électrique et électronique
+1168,8790.0,10.0,10.0,10.0,Matériel des fêtes et de pavoisement,,ligne,Matériel des fêtes et de pavoisement
+1169,4131.0,10.0,10.0,10.0,"Véhicules, motocycles, cycles et engins",,ligne,"Véhicules, motocycles, cycles et engins"
+1170,4132.0,10.0,10.0,10.0,Matériel technique,,ligne,Matériel technique
+1171,4133.0,10.0,10.0,10.0,Matériel informatique et logiciels,,ligne,Matériel informatique et logiciels
+1172,4190.0,10.0,10.0,10.0,Matériel électrique et électronique,,ligne,Matériel électrique et électronique
+1173,9999.0,10.0,10.0,20.0,Projets intégrés,,ligne,Projets intégrés
+1174,9999.0,10.0,10.0,30.0,Dépenses diverses,,ligne,Dépenses diverses
+1175,9999.0,10.0,10.0,40.0,Emprunts auprès des organismes financiers,,ligne,Emprunts auprès des organismes financiers
+1176,8110.0,20.0,20.0,10.0,Terrains,,ligne,Terrains
+1177,8130.0,20.0,20.0,10.0,Bâtiments,,ligne,Bâtiments
+1178,2400.0,20.0,20.0,10.0,Droits et taxes liés aux acquisitions immobilières,,ligne,Droits et taxes liés aux acquisitions immobilières
+1179,8800.0,20.0,20.0,10.0,Etudes et assistance techniques,,ligne,Etudes et assistance techniques
+1180,8250.0,20.0,20.0,10.0,Bâtiments,,ligne,Bâtiments
+1181,8390.0,20.0,20.0,10.0,Terrains,,ligne,Terrains
+1182,8260.0,20.0,20.0,10.0,Bâtiments,,ligne,Bâtiments
+1183,8710.0,20.0,20.0,10.0,Matériel et mobilier de bureau,,ligne,Matériel et mobilier de bureau
+1184,8410.0,20.0,20.0,10.0,Matériel technique,,ligne,Matériel technique
+1185,8440.0,20.0,20.0,10.0,Matériel électrique et électronique,,ligne,Matériel électrique et électronique
+1186,9999.0,20.0,20.0,20.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1187,8110.0,20.0,20.0,20.0,Terrains,,ligne,Terrains
+1188,2400.0,20.0,20.0,20.0,Droits et taxes liés aux acquisitions immobilières,,ligne,Droits et taxes liés aux acquisitions immobilières
+1189,4520.0,20.0,20.0,20.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1190,8250.0,20.0,20.0,20.0,Stades et complexes sportifs,,ligne,Stades et complexes sportifs
+1191,8260.0,20.0,20.0,20.0,Terrains de sport et de complexes sportifs,,ligne,Terrains de sport et de complexes sportifs
+1192,8710.0,20.0,20.0,20.0,Matériel et mobilier de bureau,,ligne,Matériel et mobilier de bureau
+1193,8440.0,20.0,20.0,20.0,Matériel électrique et électronique,,ligne,Matériel électrique et électronique
+1194,8790.0,20.0,20.0,20.0,Matériel de sport,,ligne,Matériel de sport
+1195,8110.0,20.0,20.0,30.0,Terrains,,ligne,Terrains
+1196,8130.0,20.0,20.0,30.0,Bâtiments,,ligne,Bâtiments
+1197,2400.0,20.0,20.0,30.0,Droits et taxes liés aux acquisitions immobilières,,ligne,Droits et taxes liés aux acquisitions immobilières
+1198,8800.0,20.0,20.0,30.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1199,8250.0,20.0,20.0,30.0,Construction de bâtiments,,ligne,Construction de bâtiments
+1200,8390.0,20.0,20.0,30.0,Terrains,,ligne,Terrains
+1201,8260.0,20.0,20.0,30.0,Bâtiments,,ligne,Bâtiments
+1202,8510.0,20.0,20.0,30.0,"Véhicules, motocycles, cycles et engins",,ligne,"Véhicules, motocycles, cycles et engins"
+1203,8710.0,20.0,20.0,30.0,Matériel et mobilier de bureau et des salles de soins,,ligne,Matériel et mobilier de bureau et des salles de so
+1204,8410.0,20.0,20.0,30.0,Matériel technique,,ligne,Matériel technique
+1205,9999.0,20.0,20.0,40.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1206,8110.0,20.0,20.0,40.0,Terrains,,ligne,Terrains
+1207,8130.0,20.0,20.0,40.0,Bâtiments,,ligne,Bâtiments
+1208,2400.0,20.0,20.0,40.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1209,8800.0,20.0,20.0,40.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1210,8250.0,20.0,20.0,40.0,Constructions d'établissements d'enseignement,,ligne,Constructions d'établissements d'enseignement
+1211,8360.0,20.0,20.0,40.0,Terrains,,ligne,Terrains
+1212,8710.0,20.0,20.0,40.0,Matériel et mobilier de bureau et de classes,,ligne,Matériel et mobilier de bureau et de classes
+1213,8410.0,20.0,20.0,40.0,Matériel technique,,ligne,Matériel technique
+1214,8490.0,20.0,20.0,40.0,Matériel didactique,,ligne,Matériel didactique
+1215,9999.0,20.0,20.0,50.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1216,8110.0,20.0,20.0,50.0,Terrains,,ligne,Terrains
+1217,8130.0,20.0,20.0,50.0,Bâtiments,,ligne,Bâtiments
+1218,2400.0,20.0,20.0,50.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1219,8800.0,20.0,20.0,50.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1220,8250.0,20.0,20.0,50.0,Constructions d'établissements d'enseignement,,ligne,Constructions d'établissements d'enseignement
+1221,8710.0,20.0,20.0,50.0,Matériel et mobilier de bureau et de classes,,ligne,Matériel et mobilier de bureau et de classes
+1222,8410.0,20.0,20.0,50.0,Matériel technique,,ligne,Matériel technique
+1223,8450.0,20.0,20.0,50.0,Matériel informatique,,ligne,Matériel informatique
+1224,8490.0,20.0,20.0,50.0,Matériel didactique,,ligne,Matériel didactique
+1225,9999.0,20.0,20.0,60.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1226,8110.0,20.0,20.0,60.0,Terrains,,ligne,Terrains
+1227,2400.0,20.0,20.0,60.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1228,8800.0,20.0,20.0,60.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1229,8130.0,20.0,20.0,60.0,Bâtiments,,ligne,Bâtiments
+1230,8710.0,20.0,20.0,60.0,Matériel et mobilier de bureau et de classes,,ligne,Matériel et mobilier de bureau et de classes
+1231,8410.0,20.0,20.0,60.0,Matériel technique,,ligne,Matériel technique
+1232,8450.0,20.0,20.0,60.0,Matériel informatique,,ligne,Matériel informatique
+1233,8490.0,20.0,20.0,60.0,Matériel didactique,,ligne,Matériel didactique
+1234,9999.0,20.0,20.0,70.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1235,8110.0,20.0,20.0,70.0,Terrains,,ligne,Terrains
+1236,8130.0,20.0,20.0,70.0,Bâtiments,,ligne,Bâtiments
+1237,2400.0,20.0,20.0,70.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1238,8800.0,20.0,20.0,70.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1239,8710.0,20.0,20.0,70.0,Matériel et mobilier de bureau et des salles de lecture,,ligne,Matériel et mobilier de bureau et des salles de le
+1240,8410.0,20.0,20.0,70.0,Matériel technique,,ligne,Matériel technique
+1241,8450.0,20.0,20.0,70.0,Matériel informatique,,ligne,Matériel informatique
+1242,8490.0,20.0,20.0,70.0,Matériel didactique,,ligne,Matériel didactique
+1243,9999.0,20.0,20.0,80.0,Patrimoine immobilier,,ligne,Patrimoine immobilier
+1244,8110.0,20.0,20.0,80.0,Terrains,,ligne,Terrains
+1245,8130.0,20.0,20.0,80.0,Bâtiments,,ligne,Bâtiments
+1246,2400.0,20.0,20.0,80.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1247,8800.0,20.0,20.0,80.0,Etudes et assistance technique,,ligne,Etudes et assistance technique
+1248,8250.0,20.0,20.0,80.0,Bâtiments,,ligne,Bâtiments
+1249,8710.0,20.0,20.0,80.0,Matériel et mobilier,,ligne,Matériel et mobilier
+1250,8440.0,20.0,20.0,80.0,Matériel électronique,,ligne,Matériel électronique
+1251,9999.0,30.0,30.0,10.0,Travaux urbanistiques et ruraux,,ligne,Travaux urbanistiques et ruraux
+1252,4510.0,30.0,30.0,10.0,Etudes générales,,ligne,Etudes générales
+1253,4520.0,30.0,30.0,10.0,Etudes techniques,,ligne,Etudes techniques
+1254,8360.0,30.0,30.0,10.0,Aménagements,,ligne,Aménagements
+1255,8390.0,30.0,30.0,10.0,Alignement des avennues,,ligne,Alignement des avennues
+1256,8790.0,30.0,30.0,10.0,Gros travaux d'entretien,,ligne,Gros travaux d'entretien
+1257,8250.0,30.0,30.0,10.0,Gros travaux des sites récréatifs,,ligne,Gros travaux des sites récréatifs
+1258,8740.0,30.0,30.0,10.0,Gros travaux de reboisement,,ligne,Gros travaux de reboisement
+1259,9999.0,30.0,30.0,20.0,Voies et ouvrages de génie civil,,ligne,Voies et ouvrages de génie civil
+1260,8318.0,30.0,30.0,20.0,Voies urbaines,,ligne,Voies urbaines
+1261,8390.0,30.0,30.0,20.0,Ponts,,ligne,Ponts
+1262,8319.0,30.0,30.0,20.0,Voies urbaines,,ligne,Voies urbaines
+1263,8321.0,30.0,30.0,20.0,Adduction d'eau potable,,ligne,Adduction d'eau potable
+1264,8324.0,30.0,30.0,20.0,"Aménagement de khettaras, séguias et canaux",,ligne,"Aménagement de khettaras, séguias et canaux"
+1265,8329.0,30.0,30.0,20.0,Points d'eau publics,,ligne,Points d'eau publics
+1266,8332.0,30.0,30.0,20.0,Barrages collinaires,,ligne,Barrages collinaires
+1267,8322.0,30.0,30.0,20.0,Installation de poteaux et cablages,,ligne,Installation de poteaux et cablages
+1268,8490.0,30.0,30.0,20.0,Achat de plaques d'énergie solaire,,ligne,Achat de plaques d'énergie solaire
+1269,8325.0,30.0,30.0,20.0,Canalisation,,ligne,Canalisation
+1270,9999.0,40.0,40.0,10.0,"Acquisitions, Constructions et Aménagement et gros travaux de maintenance",,ligne,"Acquisitions, Constructions et Aménagement et gros"
+1271,8110.0,40.0,40.0,10.0,Terrains,,ligne,Terrains
+1272,8130.0,40.0,40.0,10.0,Bâtiments,,ligne,Bâtiments
+1273,8410.0,40.0,40.0,10.0,Matériel technique,,ligne,Matériel technique
+1274,8400.0,40.0,40.0,10.0,Plantes et arbres,,ligne,Plantes et arbres
+1275,2400.0,40.0,40.0,10.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1276,8800.0,40.0,40.0,10.0,Etudes et assistances techniques,,ligne,Etudes et assistances techniques
+1277,8230.0,40.0,40.0,10.0,Centres de vulgarisation,,ligne,Centres de vulgarisation
+1278,8360.0,40.0,40.0,10.0,Terrains,,ligne,Terrains
+1279,8260.0,40.0,40.0,10.0,Bâtiments,,ligne,Bâtiments
+1280,8490.0,40.0,40.0,10.0,Matériel,,ligne,Matériel
+1281,9999.0,40.0,40.0,20.0,"Acquisitions, Constructions et Aides et participations",,ligne,"Acquisitions, Constructions et Aides et participat"
+1282,8110.0,40.0,40.0,20.0,Terrains,,ligne,Terrains
+1283,8410.0,40.0,40.0,20.0,Matériel techniques,,ligne,Matériel techniques
+1284,2400.0,40.0,40.0,20.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1285,8800.0,40.0,40.0,20.0,Etudes et assistances techniques,,ligne,Etudes et assistances techniques
+1286,8230.0,40.0,40.0,20.0,U.T.O.M,,ligne,U.T.O.M
+1287,9150.0,40.0,40.0,20.0,Participation au capital de la société,,ligne,Participation au capital de la société
+1288,40.0,30.0,30.0,30.0,Commerce,,ligne,Commerce
+1289,9999.0,40.0,40.0,30.0,"Acquisitions, Constructions et Aménagement et gros travaux de maintenance",,ligne,"Acquisitions, Constructions et Aménagement et gros"
+1290,8110.0,40.0,40.0,30.0,Terrains,,ligne,Terrains
+1291,8410.0,40.0,40.0,30.0,Matériel technique,,ligne,Matériel technique
+1292,2400.0,40.0,40.0,30.0,Droits et taxes liés aux acquisitions,,ligne,Droits et taxes liés aux acquisitions
+1293,8800.0,40.0,40.0,30.0,Etudes et assistances techniques,,ligne,Etudes et assistances techniques
+1294,8230.0,40.0,40.0,30.0,Abattoirs,,ligne,Abattoirs
+1295,8250.0,40.0,40.0,30.0,Aires à grains,,ligne,Aires à grains
+1296,8262.0,40.0,40.0,30.0,Abattoirs,,ligne,Abattoirs
+1297,9999.0,50.0,50.0,10.0,"Acquisitions immobilères, constructions et équipements",,ligne,"Acquisitions immobilères, constructions et équipem"
+1298,3.0,50.0,50.0,20.0,Subventions d'investissements aux budgets annexes,,ligne,Subventions d'investissements aux budgets annexes
+1299,7300.0,50.0,50.0,20.0,Subvention au budget annexe de,,ligne,Subvention au budget annexe de
+1300,50.0,30.0,30.0,30.0,Versements,,ligne,Versements
+1301,9999.0,50.0,50.0,30.0,Versement aux budgets des collectivités territoriales,,ligne,Versement aux budgets des collectivités territoria
+1302,9999.0,50.0,50.0,30.0,Subventions aux établissements de coopération intercommunale et aux groupements des collectivités territoriales,,ligne,Subventions aux établissements de coopération inte
+1303,7610.0,50.0,50.0,30.0,Versements au PAGER,,ligne,Versements au PAGER
+1304,9999.0,60.0,60.0,10.0,Résorption des déficits des budgets,,ligne,Résorption des déficits des budgets
+1305,7300.0,60.0,60.0,10.0,Budget annexe de,,ligne,Budget annexe de
+1306,7400.0,60.0,60.0,10.0,Compte spécial,,ligne,Compte spécial
+1307,310102.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1308,310202.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1309,310402.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1310,310502.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1311,320102.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1312,320202.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1313,321002.0,,,,Comptes Spéciaux,,chapitre,Comptes Spéciaux
+1314,10.0,10.0,10.0,,Etat civil et légalisation,,article,Etat civil et légalisation
+1315,10.0,10.0,10.0,30.0,Recettes des services rémunérés,,ligne,Recettes des services rémunérés
+1316,10.0,10.0,10.0,31.0,Droit d'état civil,,ligne,Droit d'état civil
+1317,10.0,20.0,20.0,31.0,Numérotation d'immeubles,,ligne,Numérotation d'immeubles
+1318,10.0,20.0,20.0,32.0,Enregistrement de la vente du bétail,,ligne,Enregistrement de la vente du bétail
+1319,10.0,30.0,30.0,,Produits des ventes,,article,Produits des ventes
+1320,10.0,30.0,30.0,22.0,"Produit des ventes de fruits, plantes, fleurs et bois",,ligne,"Produit des ventes de fruits, plantes, fleurs et b"
+1321,10.0,40.0,40.0,,Autres produits,,article,Autres produits
+1322,10.0,40.0,40.0,32.0,Droits de fourrière,,ligne,Droits de fourrière
+1323,10.0,50.0,50.0,11.0,Part complémentaire d'équilibre du budget dans le produit de la TVA,,ligne,Part complémentaire d'équilibre du budget dans le 
+1324,10.0,50.0,50.0,12.0,Part complémentaire de soutien du budget dans le produit de la TVA,,ligne,Part complémentaire de soutien du budget dans le p
+1325,20.0,10.0,10.0,22.0,Concession du service de l'ambulance communale,,ligne,Concession du service de l'ambulance communale
+1326,30.0,10.0,10.0,24.0,Produit de l'exploitation de bâtiments,,ligne,Produit de l'exploitation de bâtiments
+1327,30.0,10.0,10.0,25.0,Autres produits des biens immobiliers,,ligne,Autres produits des biens immobiliers
+1328,30.0,20.0,20.0,11.0,Taxe sur la dégradation des chaussées,,ligne,Taxe sur la dégradation des chaussées
+1329,40.0,10.0,10.0,23.0,Surtaxe d'estampillage des tapis,,ligne,Surtaxe d'estampillage des tapis
+1330,40.0,10.0,10.0,20.0,Recettes Patrimoniales,,ligne,Recettes Patrimoniales
+1331,40.0,10.0,10.0,21.0,Droits perçus sur les marchés et lieux de vente publics,,ligne,Droits perçus sur les marchés et lieux de vente pu
+1332,40.0,10.0,10.0,26.0,Produit de location des locaux à usage commercial ou professionnel,,ligne,Produit de location des locaux à usage commercial 
+1333,40.0,10.0,10.0,27.0,Produit d'affermage des souks communaux,,ligne,Produit d'affermage des souks communaux
+1334,40.0,10.0,10.0,28.0,Produit des bains douches,,ligne,Produit des bains douches
+1335,40.0,10.0,10.0,29.0,Produit de l'exploitation de terrains,,ligne,Produit de l'exploitation de terrains
+1336,40.0,10.0,10.0,30.0,Produit du domaine forestier relevant du territoire communal,,ligne,Produit du domaine forestier relevant du territoir
+1337,40.0,10.0,10.0,31.0,Produit de location d'autres biens,,ligne,Produit de location d'autres biens
+1338,40.0,10.0,10.0,32.0,Concession des services communaux,,ligne,Concession des services communaux
+1339,40.0,10.0,10.0,33.0,Concession pour distribution d'eau,,ligne,Concession pour distribution d'eau
+1340,40.0,10.0,10.0,35.0,Concession d'exploitation des buvettes municipales,,ligne,Concession d'exploitation des buvettes municipales
+1341,40.0,10.0,10.0,36.0,Produits des autres concessions,,ligne,Produits des autres concessions
+1342,40.0,10.0,10.0,38.0,"Redevance d'occupation temporaire du domaine public communal par des biens meubles et immeubles liés à l'exercice d'un commerce, d'une industrie",,ligne,Redevance d'occupation temporaire du domaine publi
+1343,40.0,10.0,10.0,39.0,Produit de l'exploitation de terrains agricoles,,ligne,Produit de l'exploitation de terrains agricoles
+1344,40.0,10.0,10.0,34.0,Taxe sur les visites vétérinaires à l'occasion des abattages exceptionnels,,ligne,Taxe sur les visites vétérinaires à l'occasion des
+1345,40.0,10.0,10.0,37.0,Taxe de stabulation,,ligne,Taxe de stabulation
+1346,40.0,10.0,10.0,40.0,Redevances sur les recettes des mandataires des halles aux poissons,,ligne,Redevances sur les recettes des mandataires des ha
+1347,40.0,10.0,10.0,41.0,Redevances sur les halles aux peaux et cuir,,ligne,Redevances sur les halles aux peaux et cuir
+1348,40.0,10.0,10.0,42.0,Produit du poids public et taxe de pesage et de mesurage,,ligne,Produit du poids public et taxe de pesage et de me
+1349,40.0,10.0,10.0,43.0,Produit de l'exploitation du service des eaux,,ligne,Produit de l'exploitation du service des eaux
+1350,40.0,10.0,10.0,44.0,Produit de l'exploitation du service de distribution de l'énergie électrique,,ligne,Produit de l'exploitation du service de distributi
+1351,40.0,10.0,10.0,45.0,Taxe sur les viandes foraines,,ligne,Taxe sur les viandes foraines
+1352,40.0,20.0,20.0,16.0,Taxe sur le transport public de voyageurs (ca),,ligne,Taxe sur le transport public de voyageurs (ca)
+1353,50.0,10.0,10.0,10.0,Produit des intérêts des fonds placés au trésor,,ligne,Produit des intérêts des fonds placés au trésor
+1354,3990.0,10.0,10.0,10.0,Achat d'objets d'art ou cadeaux remis en prix ou cadeaux remis aux délégations étrangères,,ligne,Achat d'objets d'art ou cadeaux remis en prix ou c
+1355,9999.0,10.0,10.0,30.0,Frais divers de prestations numérique,,ligne,Frais divers de prestations numérique
+1356,1540.0,20.0,20.0,10.0,Frais de fonctionnement des foyers socioculturels de de l'enfance,,ligne,Frais de fonctionnement des foyers socioculturels 
+1357,97.0,30.0,30.0,10.0,Maintenance et conservation du patrimoine,,ligne,Maintenance et conservation du patrimoine
+1358,4123.0,30.0,30.0,20.0,Entretien courant d'ouvrages d'électricité publique,,ligne,Entretien courant d'ouvrages d'électricité publiqu
+1359,5610.0,50.0,50.0,40.0,Versement,,ligne,Versement
+1360,5112.0,20.0,20.0,10.0,Participation à la construction des égouts,,ligne,Participation à la construction des égouts
+1361,5113.0,20.0,20.0,10.0,Participation à la construction des canalisations d'eau potable,,ligne,Participation à la construction des canalisations 
+1362,30.0,10.0,10.0,32.0,Participation à la construction des chaussées,,ligne,Participation à la construction des chaussées
+1363,30.0,10.0,10.0,33.0,Participation à la construction des trottoirs et caniveaux,,ligne,Participation à la construction des trottoirs et c
+1364,50.0,10.0,10.0,11.0,Excédents de la première partie,,ligne,Excédents de la première partie
+1365,50.0,10.0,10.0,12.0,Excédents de l'année précédente,,ligne,Excédents de l'année précédente
+1366,50.0,10.0,10.0,30.0,Soldes des comptes spéciaux,,ligne,Soldes des comptes spéciaux
+1367,50.0,20.0,20.0,13.0,Subventions des offices et établissements publics,,ligne,Subventions des offices et établissements publics
+1368,50.0,30.0,30.0,12.0,Participation des offices et établissements publics,,ligne,Participation des offices et établissements public
+1369,50.0,30.0,30.0,30.0,Fonds de concours (dons et legs),,ligne,Fonds de concours (dons et legs)
+1370,3120.0,50.0,50.0,40.0,Produits des emprunts FEC,,ligne,Produits des emprunts FEC
+1371,3190.0,50.0,50.0,40.0,Produits des autres emprunts,,ligne,Produits des autres emprunts
+1372,8410.0,10.0,10.0,10.0,Matériel technique et Materiel de l'audiovisuel,,ligne,Matériel technique et Materiel de l'audiovisuel
+1373,4190.0,10.0,10.0,10.0,Matériel électrique et électronique et de l' audio visuel,,ligne,Matériel électrique et électronique et de l' audio
+1374,8440.0,20.0,20.0,20.0,Matériel électique et électronique,,ligne,Matériel électique et électronique
+1375,50.0,10.0,10.0,10.0,Emploi de fonds de concours,,ligne,Emploi de fonds de concours
+1376,50.0,20.0,20.0,20.0,Aides,,ligne,Aides
+1377,3.0,50.0,50.0,40.0,Versement aux comptes de dépenses sur dotations,,ligne,Versement aux comptes de dépenses sur dotations
+1378,8210.0,10.0,10.0,10.0,Construction de logements,,ligne,Construction de logements
+1379,4190.0,10.0,10.0,10.0,Matériel électrique et électronique et de l' audio visuel -,,ligne,Matériel électrique et électronique et de l' audio
+1380,9999.0,10.0,10.0,20.0,Projet integré de,,ligne,Projet integré de
+1381,9999.0,20.0,20.0,40.0,Acquisitions,,ligne,Acquisitions
+1382,9999.0,40.0,40.0,20.0,Acquisitions,,ligne,Acquisitions

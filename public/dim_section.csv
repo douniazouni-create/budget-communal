@@ -1,0 +1,5 @@
+﻿id_section,code_section,libelle_section,type_budget,est_recette
+1,REC,Recettes de fonctionnement,fonctionnement,1
+2,DEP,Depenses de fonctionnement,fonctionnement,0
+3,INV,Investissement,investissement,0
+0,INC,Inconnu,inconnu,0
