@@ -1,0 +1,12 @@
+﻿annee,valeur,type
+2020,143310709.36,Prévisionnel
+2021,123353679.35,Réalisé
+2022,143356486.3,Réalisé
+2023,141497575.33,Réalisé
+2024,140916498.92,Réalisé
+2025,161273528.07,Réalisé
+2026,163098561.47,Scénario pessimiste
+2026,165092606.09,Scénario central
+2026,167804069.2,Scénario optimiste
+2026,140201389.15,IC bas 95% (Prophet)
+2026,172420931.79,IC haut 95% (Prophet)

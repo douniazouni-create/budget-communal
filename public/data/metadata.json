@@ -1,0 +1,169 @@
+{
+  "projet": "BI Recettes Budgétaires — Commune de Fquih Ben Salah",
+  "auteur": "Mlle. Zouini Dounia",
+  "phase": 6,
+  "date_generation": "2026-06-14T15:31:17.363588",
+  "annee_cible": 2026,
+  "annee_min_norm": 2020,
+  "annee_2026_norm": 6.0,
+  "historique": {
+    "2021": 123353679.35,
+    "2022": 143356486.3,
+    "2023": 141497575.33,
+    "2024": 140916498.92,
+    "2025": 161273528.07
+  },
+  "modeles": {
+    "linear_regression": {
+      "fichier": "linear_regression.joblib",
+      "prevision": 164099466.61,
+      "r2": 0.7458,
+      "type": "sklearn"
+    },
+    "polynomial_regression": {
+      "fichier_features": "polynomial_features.joblib",
+      "fichier_regression": "polynomial_regression.joblib",
+      "prevision": 165092606.09,
+      "r2": 0.7462,
+      "type": "sklearn"
+    },
+    "ridge_regression": {
+      "fichier": "ridge_regression.joblib",
+      "prevision": 162097656.34,
+      "r2": 0.7396,
+      "type": "sklearn"
+    },
+    "svr": {
+      "fichier_model": "svr_model.joblib",
+      "fichier_scaler_X": "svr_scaler_X.joblib",
+      "fichier_scaler_y": "svr_scaler_y.joblib",
+      "prevision": 176666242.76,
+      "r2": 0.7886,
+      "type": "sklearn",
+      "note": "Charger les 3 fichiers ensemble. Scaler X avant predict, inverse-scaler y après."
+    },
+    "bayesian_ridge": {
+      "fichier": "bayesian_ridge.joblib",
+      "prevision": 142079553.59,
+      "r2": 0.0,
+      "ic_bas_95": 118520570.7,
+      "ic_haut_95": 165638536.48,
+      "type": "sklearn"
+    },
+    "prophet": {
+      "fichier": "prophet_model.pkl",
+      "prevision": 156351273.55,
+      "ic_bas_95": 139763613.57,
+      "ic_haut_95": 172460914.64,
+      "type": "prophet",
+      "note": "Charger avec pickle.load(). Appeler model.predict() avec df contenant colonne 'ds'."
+    },
+    "holt": {
+      "fichier": "holt_model.pkl",
+      "prevision": 158220754.06,
+      "alpha": 0.6542,
+      "beta": 0.6542,
+      "type": "statsmodels",
+      "note": "Charger avec pickle.load(). Appeler model.forecast(steps=1)."
+    },
+    "arima": {
+      "fichier": "arima_model.pkl",
+      "prevision": 164710799.04,
+      "ordre": [0, 1, 1],
+      "aic": 144.51,
+      "type": "statsmodels",
+      "note": "Charger avec pickle.load(). Appeler model.forecast(steps=1)."
+    },
+    "cagr": {
+      "prevision": 172313030.57,
+      "cagr_4ans_pct": 6.9308,
+      "cagr_2ans_pct": 6.7596,
+      "type": "analytique",
+      "note": "Pas de fichier modèle. Calculer directement : derniere_recette * (1 + cagr)."
+    },
+    "moyenne_ponderee": {
+      "prevision": 169305830.04,
+      "poids": {
+        "2021": 0.058012,
+        "2022": 0.095646,
+        "2023": 0.157694,
+        "2024": 0.259993,
+        "2025": 0.428656
+      },
+      "slope": 20357029.15,
+      "type": "analytique",
+      "note": "Pas de fichier modèle. Recalculer avec poids exponentiels + slope 2024→2025."
+    },
+    "theta": {
+      "prevision": 165597837.54,
+      "type": "analytique_fallback",
+      "note": "Theta manuel sans statsforecast"
+    },
+    "lstm": {
+      "fichier_model": "lstm_model.keras",
+      "fichier_scaler": "lstm_scaler.joblib",
+      "prevision": 164798123.25,
+      "epochs": 121,
+      "seq_len": 4,
+      "type": "keras",
+      "note": "Charger avec tf.keras.models.load_model(). Normaliser l'entrée : (x - y_min) / (y_max - y_min). Dénormaliser la sortie : pred * (y_max - y_min) + y_min. Entrée shape : (1, 4, 1) — 4 dernières années normalisées."
+    }
+  },
+  "meilleur_modele_metriques": {
+    "nom": "9. SVR (RBF)",
+    "score_global": 84.65,
+    "mape_pct": 2.5074,
+    "r2": 0.7886,
+    "mase": 0.3331
+  },
+  "classement_scores": {
+    "9. SVR (RBF)": 84.65,
+    "12. Theta Method": 81.01,
+    "7. CAGR": 80.32,
+    "2. Régression polynomiale": 79.09,
+    "1. Régression linéaire": 78.95,
+    "3. Ridge Regression": 78.05,
+    "4. Prophet": 66.56,
+    "8. Moyenne pondérée": 58.61,
+    "11. Bayesian Ridge": 57.12,
+    "5. Lissage Holt": 48.58,
+    "6. ARIMA": 0.0,
+    "10. LSTM": 0.0
+  },
+  "synthese": {
+    "nb_modeles": 12,
+    "nb_modeles_coherents": 11,
+    "modeles_exclus_mediane": ["11. Bayesian Ridge"],
+    "modeles_exclus_recommandation": ["11. Bayesian Ridge", "9. SVR (RBF)"],
+    "mediane": 164798123.25,
+    "moyenne": 165386692.71,
+    "ecart_type": 5534688.51,
+    "mini": 156351273.55,
+    "maxi": 176666242.76,
+    "scenario_pessimiste": 163098561.47,
+    "scenario_central": 164798123.25,
+    "scenario_optimiste": 167451833.79,
+    "modele_recommande": "12. Theta Method",
+    "prevision_recommandee": 165597837.54,
+    "score_modele_recommande": 81.01,
+    "variation_vs_2025_pct": 2.19,
+    "ic_prophet_bas": 139763613.57,
+    "ic_prophet_haut": 172460914.64,
+    "ic_bayesian_bas": 118520570.7,
+    "ic_bayesian_haut": 165638536.48
+  },
+  "toutes_previsions": {
+    "1. Régression linéaire": 164099466.61,
+    "2. Régression polynomiale": 165092606.09,
+    "3. Ridge Regression": 162097656.34,
+    "9. SVR (RBF)": 176666242.76,
+    "11. Bayesian Ridge": 142079553.59,
+    "4. Prophet": 156351273.55,
+    "5. Lissage Holt": 158220754.06,
+    "6. ARIMA": 164710799.04,
+    "7. CAGR": 172313030.57,
+    "8. Moyenne pondérée": 169305830.04,
+    "12. Theta Method": 165597837.54,
+    "10. LSTM": 164798123.25
+  }
+}

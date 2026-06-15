@@ -1,0 +1,16 @@
+﻿modele,prevision_2026,variation_pct,interpretation,est_meilleur,exclu_mediane,fichier_modele
+1. Régression linéaire,164099466.61,1.75,Croissance linéaire +7.3M MAD/an,0,0,linear_regression.joblib
+2. Régression polynomiale,165092606.09,2.37,Courbe parabolique de croissance,0,0,polynomial_regression.joblib
+3. Ridge Regression,162097656.34,0.51,Régression pénalisée alpha=1,0,0,ridge_regression.joblib
+9. SVR (RBF),176666242.76,9.54,"Noyau RBF, robuste au creux 2021",0,0,svr_model.joblib
+11. Bayesian Ridge,142079553.59,-11.9,IC 95% : [119M — 166M MAD],0,1,bayesian_ridge.joblib
+4. Prophet,156351273.55,-3.05,IC 95% : [140M — 172M MAD],0,0,prophet_model.pkl
+5. Lissage Holt,158220754.06,-1.89,"alpha=0.65, beta=0.65",0,0,holt_model.pkl
+6. ARIMA,164710799.04,2.13,"Ordre (0, 1, 1), AIC=145",0,0,arima_model.pkl
+7. CAGR,172313030.57,6.85,CAGR 4ans=6.9%  CAGR 2ans=6.8%,0,0,analytique
+8. Moyenne pondérée,169305830.04,4.98,Tendance récente +20.4M MAD,0,0,analytique
+12. Theta Method,165597837.54,2.68,Fallback manuel Theta (régression + SES),1,0,analytique
+10. LSTM,166302308.36,3.12,"Deep Learning, 98 epochs, n=5 (interpréter avec prudence)",0,0,analytique
+Scénario pessimiste,163098561.47,1.13,1er quartile (filtré),0,0,
+Scénario central,165092606.09,2.37,Médiane filtrée,0,0,
+Scénario optimiste,167804069.2,4.05,3ème quartile (filtré),0,0,
